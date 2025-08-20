@@ -1,0 +1,9 @@
+.elementor-3878 .elementor-element.elementor-element-bd7aea2{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--margin-block-start:40px;--margin-block-end:40px;--margin-inline-start:0px;--margin-inline-end:0px;}.elementor-3878 .elementor-element.elementor-element-bf67cbd{text-align:justify;}.elementor-3878 .elementor-element.elementor-element-bf67cbd .elementor-heading-title{color:#574B73;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-3878 .elementor-element.elementor-element-f093c52{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3878 .elementor-element.elementor-element-5886aa0{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3878 .elementor-element.elementor-element-784fc3b{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}/* Start custom CSS for container, class: .elementor-element-f093c52 */li.sitemap-item {
+    width: 20%;
+    float: left;
+    list-style: none;
+    color: #000;
+}
+
+ul.elementor-sitemap-list.elementor-sitemap-page-list
+{ margin: 0; padding: 0}/* End custom CSS */

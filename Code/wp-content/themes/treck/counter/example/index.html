@@ -1,0 +1,62 @@
+
+
+    
+    <link rel="stylesheet" href="custom.css">
+    <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
+          <div class="corner-ribbon top-right sticky blue"><a href="https://github.com/mpavade/animationCounter.js" target="_blank">view project on github</a></div>
+          <div class="block-wrapper">
+              <div class="block">
+                  <p><span class="lnr lnr-heart"></span></p>
+                  <p class="counter-wrapper"><span class="fb"></span></p>
+                  <p class="text-block">like</p>
+              </div>
+              <div class="block">
+                  <p><span class="lnr lnr-code"></span></p>
+                  <p class="counter-wrapper"><span class="code"></span></p>
+                  <p class="text-block">code</p>
+              </div>
+              <div class="block">
+                  <p><span class="lnr lnr-bicycle"></span></p>
+                  <p class="counter-wrapper"><span class="bike"></span></p>
+                  <p class="text-block">bicycle</p>
+              </div>
+              <div class="block">
+                  <p><span class="lnr lnr-coffee-cup"></span></p>
+                  <p class="counter-wrapper"><span class="coffee"></span></p>
+                  <p class="text-block">coffee</p>
+              </div>
+            </div>
+        
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" charset="utf-8"></script>
+    <script src="../animationCounter.js" charset="utf-8"></script>
+    <script type="text/javascript">
+    $('#counter-block').ready(function(){
+        $('.fb').animationCounter({
+          start: 0,
+          step: 1,
+          delay: 100
+        });
+        $('.bike').animationCounter({
+          start: 245677,
+          step: 100,
+          delay: 300,
+          txt: ' km'
+        });
+        $('.code').animationCounter({
+          start: 0,
+          end: 570,
+          step: 4,
+          delay: 1000
+        });
+        $('.coffee').animationCounter({
+          start: 490,
+          end: 1560,
+          step: 20,
+          delay: 200,
+          txt: ' cl'
+        });
+    });
+    </script>
+

@@ -1,0 +1,14 @@
+{
+  "exclude": [ 
+    "assets/js/admin.js",
+    "assets/js/frontend.js",
+    ".git",
+    ".gitignore",
+    ".babelrc",
+    ".gitignore",
+    "appsero.json",
+    "package.json",
+    "package-lock.json",
+    "webpack.*.json"
+  ]
+}

@@ -1,0 +1,190 @@
+2023-12-18T04:47:43+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T04:49:51+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T04:49:58+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T04:50:22+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T04:51:50+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T04:52:38+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T04:52:41+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T04:57:51+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T04:57:52+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T05:04:26+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T05:05:02+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T05:05:35+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T05:06:29+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T05:07:47+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T05:09:09+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T05:12:09+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T05:13:52+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T05:15:20+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+
+2023-12-18T05:16:02+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg()
+#1 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon()
+#2 /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html()
+#3 /var/www/html/upyog/wp-content/plugins/treck-addon/elementor-templates/footer-contact.php(19): Elementor\Icons_Manager::render_icon()
+#4 /var/www/html/upyog/wp-content/plugins/treck-addon/includes/Widgets/FooterContact.php(73): include('/var/www/html/u...')
+#5 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Layerdrops\Treck\Widgets\FooterContact->render()
+#6 /var/www/html/upyog/wp-content/plugins/elementor/includes/base/widget-base.php(61 in /var/www/html/upyog/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+

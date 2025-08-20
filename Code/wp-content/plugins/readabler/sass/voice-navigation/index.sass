@@ -1,0 +1,115 @@
+@import "../includes/vars"
+
+#mdp-readabler-voice-navigation
+  position: fixed
+  left: 50%
+  transform: translateX(-50%)
+  bottom: 0
+  z-index: 99998
+
+  &[aria-hidden="false"]
+    display: flex
+    align-items: flex-end
+    justify-content: center
+
+    .modal__overlay
+      animation: mmfadeIn .3s cubic-bezier(0.0, 0.0, 0.2, 1)
+
+    .modal__container
+      animation: mmslideIn .3s cubic-bezier(0, 0, .2, 1)
+
+  &[aria-hidden="true"]
+    display: none
+
+    .modal__overlay
+      animation: mmfadeOut .3s cubic-bezier(0.0, 0.0, 0.2, 1)
+
+    .modal__container
+      animation: mmslideOut .3s cubic-bezier(0, 0, .2, 1)
+
+  .modal__container,
+  .modal__overlay
+    will-change: transform
+
+#mdp-readabler-voice-navigation-overlay
+  position: fixed
+  top: 0
+  left: 0
+  right: 0
+  bottom: 0
+  background: rgba(0,0,0,0.6)
+  display: flex
+  justify-content: center
+  align-items: center
+
+#mdp-readabler-voice-navigation-content
+  padding: 20px 26px
+  width: 80vw
+  max-width: 800px
+  max-height: 50vh
+  box-sizing: border-box
+  border-radius: $fontSize $fontSize 0 0
+  position: relative
+  display: flex
+  row-gap: 40px
+  flex-direction: column
+  box-shadow: $shadow
+
+  p
+    font-size: 16px
+    line-height: 1.5
+    display: flex
+    align-items: center
+    column-gap: 8px
+    flex-wrap: wrap
+    margin: 0
+
+    b
+      white-space: nowrap
+
+  @import "commands"
+
+@import "form"
+
+@media screen and (max-width: 782px)
+
+  #mdp-readabler-voice-navigation-content
+    width: 100vw
+    min-width: 100vw
+    max-height: 65vh
+
+@media screen and (max-width: 440px)
+
+  #mdp-readabler-voice-visualization
+    display: none
+
+  .mdp-readabler-voice-navigation-command-group
+
+    i
+      display: none
+
+// MicroModal animation
+
+@keyframes mmfadeIn
+  from
+    opacity: 0
+  to
+    opacity: 1
+
+@keyframes mmfadeOut
+  from
+    opacity: 1
+  to
+    opacity: 0
+
+@keyframes mmslideIn
+  from
+    transform: translateY(15%)
+  to
+    transform: translateY(0)
+
+@keyframes mmslideOut
+  from
+    transform: translateY(0)
+  to
+    transform: translateY(-10%)

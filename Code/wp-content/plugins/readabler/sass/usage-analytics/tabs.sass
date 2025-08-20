@@ -1,0 +1,72 @@
+@import "vars"
+
+.mdp-readabler-usage-analytics
+
+  .mdp-readabler-usage-analytics-tabs
+    width: 100%
+    display: flex
+    flex-direction: column
+    border-top: 1px solid $wpBorderColor
+    margin: 0 0 -12px 0
+
+  .mdp-readabler-usage-analytics-tabs--header
+    width: 100%
+    display: flex
+    flex-direction: row
+    column-gap: 10px
+    row-gap: 10px
+
+    button
+
+      &.mdp-readabler-usage-analytics-tabs--header-item
+        display: inline-flex
+        padding: 0
+        margin: 0
+        font-size: 14px
+        min-height: 40px
+        line-height: 1.25
+        background: none
+        border: none
+        border-radius: 0
+        box-shadow: none
+        cursor: pointer
+        transition: all 0.2s ease-in-out
+        border-bottom: 2px solid transparent
+
+        &:hover
+          color: $wpAdminColorHover
+          border-bottom: 2px solid $wpBorderColor
+          transition: all 0.2s ease-in-out
+          text-decoration: underline
+
+        &.active
+          color: $wpAdminColor
+          border-bottom: 2px solid $wpAdminColor
+          transition: all 0.2s ease-in-out
+
+          &:hover
+            color: $wpAdminColorHover
+            border-bottom: 2px solid $wpAdminColorHover
+            transition: all 0.2s ease-in-out
+            text-decoration: none
+
+  .mdp-readabler-usage-analytics-tabs--content
+    width: 100%
+    flex-direction: column
+
+    .mdp-readabler-usage-analytics-tabs--content-item
+      display: none
+      width: 100%
+
+      &.active
+        display: flex
+        animation: readabler-fade-in
+        animation-duration: 1s
+        animation-fill-mode: both
+        padding: 8px 0 12px 0
+
+@keyframes readabler-fade-in
+  0%
+    opacity: 0
+  100%
+    opacity: 1

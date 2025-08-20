@@ -1,0 +1,3466 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-05-28 05:42+0600\n"
+"PO-Revision-Date: 2021-08-16 00:25+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+"X-Poedit-SearchPathExcluded-3: vendor\n"
+
+#: common/functions.php:177
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: common/functions.php:400 common/functions.php:412
+msgid "Circle Options"
+msgstr ""
+
+#: common/functions.php:422
+msgid "Enable Gradient Color?"
+msgstr ""
+
+#: common/functions.php:424 elementor-options/blog-option.php:100
+#: elementor-options/blog-option.php:130
+#: elementor-options/contact-form-one-option.php:135
+#: elementor-options/contact-form-three-option.php:138
+#: elementor-options/contact-form-two-option.php:115
+#: elementor-options/country-four-option.php:61
+#: elementor-options/country-three-option.php:93
+#: elementor-options/faq-one-option.php:147
+#: elementor-options/faq-two-option.php:45
+#: elementor-options/header-option.php:166
+#: elementor-options/header-option.php:178
+#: elementor-options/header-option.php:353
+#: elementor-options/neighborhood-one-option.php:83
+#: elementor-options/office-location-one-option.php:128
+#: elementor-options/sidebar-four-option.php:47
+#: elementor-options/sidebar-one-option.php:47
+msgid "Yes"
+msgstr ""
+
+#: common/functions.php:425 elementor-options/blog-option.php:101
+#: elementor-options/blog-option.php:131
+#: elementor-options/contact-form-one-option.php:136
+#: elementor-options/contact-form-three-option.php:139
+#: elementor-options/contact-form-two-option.php:116
+#: elementor-options/country-four-option.php:62
+#: elementor-options/country-three-option.php:94
+#: elementor-options/faq-one-option.php:148
+#: elementor-options/faq-two-option.php:46
+#: elementor-options/header-option.php:167
+#: elementor-options/header-option.php:179
+#: elementor-options/header-option.php:354
+#: elementor-options/neighborhood-one-option.php:84
+#: elementor-options/office-location-one-option.php:129
+#: elementor-options/sidebar-four-option.php:48
+#: elementor-options/sidebar-one-option.php:48
+msgid "No"
+msgstr ""
+
+#: common/functions.php:444
+msgid "Gradient Lists"
+msgstr ""
+
+#: common/functions.php:479
+msgid "Thickness"
+msgstr ""
+
+#: common/functions.php:499
+msgid "Size"
+msgstr ""
+
+#: common/functions.php:519
+msgid "Angel"
+msgstr ""
+
+#: common/functions.php:539
+msgid "Line Cap"
+msgstr ""
+
+#: common/functions.php:543
+msgid "Butt"
+msgstr ""
+
+#: common/functions.php:544
+msgid "Round"
+msgstr ""
+
+#: common/functions.php:545
+msgid "Square"
+msgstr ""
+
+#: common/functions.php:654 common/functions.php:665
+msgid "Slider Options"
+msgstr ""
+
+#: common/functions.php:687
+msgid "AutoPlay Delay"
+msgstr ""
+
+#: common/functions.php:708
+msgid "AutoPlay On Hover"
+msgstr ""
+
+#: common/functions.php:787
+msgid "Smart Speed"
+msgstr ""
+
+#: common/functions.php:809
+msgid "Slide Items"
+msgstr ""
+
+#: common/functions.php:829 common/functions.php:892
+msgid "Margin"
+msgstr ""
+
+#: common/functions.php:852
+msgid "Screen Size"
+msgstr ""
+
+#: common/functions.php:872
+msgid "Slide Item"
+msgstr ""
+
+#: common/functions.php:912
+msgid "Breakpoints"
+msgstr ""
+
+#: common/functions.php:944
+msgid " Padding"
+msgstr ""
+
+#: common/functions.php:959
+msgid " Margin"
+msgstr ""
+
+#: common/functions.php:989
+msgid "Color"
+msgstr ""
+
+#: common/functions.php:1023
+msgid "Padding"
+msgstr ""
+
+#: common/functions.php:1060
+msgid "Border Radius"
+msgstr ""
+
+#: common/functions.php:1099
+msgid "Normal"
+msgstr ""
+
+#: common/functions.php:1109 common/functions.php:1150
+msgid "Text Color"
+msgstr ""
+
+#: common/functions.php:1124 common/functions.php:1164
+msgid "Background Color"
+msgstr ""
+
+#: common/functions.php:1140
+msgid "Hover"
+msgstr ""
+
+#: common/functions.php:1178
+msgid "Border Color"
+msgstr ""
+
+#: common/functions.php:1384
+msgid "Column Options"
+msgstr ""
+
+#: common/functions.php:1396
+msgid "Column Width %"
+msgstr ""
+
+#: elementor-options/about-five-option.php:7
+#: elementor-options/about-four-option.php:7
+#: elementor-options/about-one-option.php:7
+#: elementor-options/about-one-option.php:65
+#: elementor-options/about-seven-option.php:7
+#: elementor-options/about-six-option.php:7
+#: elementor-options/about-three-option.php:7
+#: elementor-options/about-two-option.php:7
+#: elementor-options/amenities-one-option.php:7
+#: elementor-options/apartment-check-list-option.php:7
+#: elementor-options/apartment-details-box-option.php:7
+#: elementor-options/apartment-details-two-option.php:7
+#: elementor-options/apartment-five-option.php:7
+#: elementor-options/apartment-four-option.php:7
+#: elementor-options/apartment-one-option.php:7
+#: elementor-options/apartment-two-option.php:7
+#: elementor-options/availability-one-option.php:7
+#: elementor-options/award-one-option.php:6
+#: elementor-options/button-one-option.php:6
+#: elementor-options/call-to-action-one-option.php:6
+#: elementor-options/call-to-action-two-option.php:6
+#: elementor-options/choose-one-option.php:7
+#: elementor-options/concept-one-option.php:7
+#: elementor-options/concept-two-option.php:7
+#: elementor-options/contact-form-one-option.php:122
+#: elementor-options/contact-form-two-option.php:102
+#: elementor-options/contact-info-one-option.php:6
+#: elementor-options/contact-info-one-option.php:38
+#: elementor-options/counter-one-option.php:7
+#: elementor-options/country-four-option.php:6
+#: elementor-options/country-one-option.php:6
+#: elementor-options/country-three-option.php:6
+#: elementor-options/country-two-option.php:6
+#: elementor-options/country-two-option.php:81
+#: elementor-options/faq-two-option.php:7
+#: elementor-options/feature-one-option.php:7
+#: elementor-options/feature-three-option.php:7
+#: elementor-options/feature-two-option.php:7
+#: elementor-options/footer-about-one-option.php:6
+#: elementor-options/footer-contact-one-option.php:6
+#: elementor-options/footer-contact-one-option.php:31
+#: elementor-options/footer-copyright-one-option.php:6
+#: elementor-options/footer-nav-one-option.php:5
+#: elementor-options/footer-news-one-option.php:7
+#: elementor-options/footer-subscribe-one-option.php:6
+#: elementor-options/footer-top-one-option.php:7
+#: elementor-options/footer-top-one-option.php:19
+#: elementor-options/icon-box-one-option.php:6
+#: elementor-options/icon-box-three-option.php:6
+#: elementor-options/icon-box-two-option.php:6
+#: elementor-options/image-box-one-option.php:6
+#: elementor-options/measurement-one-option.php:6
+#: elementor-options/neighborhood-one-option.php:7
+#: elementor-options/office-location-one-option.php:6
+#: elementor-options/pagination-one-option.php:6
+#: elementor-options/price-one-option.php:6
+#: elementor-options/progressbar-one-option.php:6
+#: elementor-options/search-form-one-option.php:6
+#: elementor-options/service-details-one-option.php:7
+#: elementor-options/service-eight-option.php:6
+#: elementor-options/service-five-option.php:6
+#: elementor-options/service-four-option.php:6
+#: elementor-options/service-nine-option.php:6
+#: elementor-options/service-one-option.php:6
+#: elementor-options/service-seven-option.php:6
+#: elementor-options/service-six-option.php:6
+#: elementor-options/service-three-option.php:6
+#: elementor-options/service-two-option.php:6
+#: elementor-options/sidebar-five-option.php:6
+#: elementor-options/sidebar-four-option.php:6
+#: elementor-options/sidebar-one-option.php:6
+#: elementor-options/sidebar-three-option.php:6
+#: elementor-options/sidebar-two-option.php:6
+#: elementor-options/step-one-option.php:6
+#: elementor-options/story-details-one-option.php:6
+#: elementor-options/team-one-option.php:6
+#: elementor-options/team-three-option.php:6
+#: elementor-options/team-two-option.php:6
+#: elementor-options/testimonial-five-option.php:6
+#: elementor-options/testimonial-four-option.php:6
+#: elementor-options/testimonial-one-option.php:6
+#: elementor-options/testimonial-three-option.php:6
+#: elementor-options/testimonial-two-option.php:6
+#: elementor-options/values-one-option.php:6
+#: elementor-options/values-two-option.php:6
+#: elementor-options/video-one-option.php:6
+#: elementor-options/visa-offer-one-option.php:6
+#: elementor-options/visa-offer-one-option.php:61
+#: elementor-options/visa-one-option.php:6 elementor-options/woo-option.php:53
+#: includes/Widgets/HomeShowCase.php:34 includes/Widgets/Login.php:56
+#: includes/Widgets/Register.php:56 includes/Widgets/Sponsors.php:58
+msgid "Content"
+msgstr ""
+
+#: elementor-options/about-five-option.php:18
+#: elementor-options/about-four-option.php:18
+#: elementor-options/about-one-option.php:18
+#: elementor-options/about-seven-option.php:18
+#: elementor-options/about-six-option.php:18
+#: elementor-options/about-three-option.php:18
+#: elementor-options/about-two-option.php:18
+#: elementor-options/amenities-one-option.php:18
+#: elementor-options/apartment-details-two-option.php:18
+#: elementor-options/apartment-one-option.php:18
+#: elementor-options/apartment-two-option.php:18
+#: elementor-options/availability-one-option.php:18
+#: elementor-options/award-one-option.php:17
+#: elementor-options/blog-option.php:16
+#: elementor-options/choose-one-option.php:18
+#: elementor-options/concept-one-option.php:18
+#: elementor-options/concept-two-option.php:18
+#: elementor-options/contact-form-five-option.php:17
+#: elementor-options/contact-form-four-option.php:17
+#: elementor-options/contact-form-one-option.php:19
+#: elementor-options/contact-form-three-option.php:17
+#: elementor-options/contact-form-two-option.php:17
+#: elementor-options/country-one-option.php:17
+#: elementor-options/country-three-option.php:17
+#: elementor-options/country-two-option.php:17
+#: elementor-options/heading-one-option.php:17
+#: elementor-options/measurement-one-option.php:17
+#: elementor-options/neighborhood-one-option.php:18
+#: elementor-options/office-location-one-option.php:17
+#: elementor-options/price-one-option.php:17
+#: elementor-options/service-five-option.php:17
+#: elementor-options/service-four-option.php:17
+#: elementor-options/service-nine-option.php:17
+#: elementor-options/service-one-option.php:17
+#: elementor-options/service-seven-option.php:17
+#: elementor-options/service-three-option.php:17
+#: elementor-options/service-two-option.php:17
+#: elementor-options/step-one-option.php:17
+#: elementor-options/team-one-option.php:17
+#: elementor-options/testimonial-five-option.php:17
+#: elementor-options/testimonial-two-option.php:17
+#: elementor-options/values-one-option.php:17
+#: elementor-options/values-two-option.php:17
+#: elementor-options/video-one-option.php:17
+#: elementor-options/visa-one-option.php:17
+#: elementor-options/woo-option.php:17 elementor-options/woo-option.php:29
+#: includes/Widgets/Sponsors.php:66
+msgid "Section Title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:20
+#: elementor-options/about-five-option.php:78
+#: elementor-options/about-four-option.php:20
+#: elementor-options/about-four-option.php:59
+#: elementor-options/about-one-option.php:20
+#: elementor-options/about-one-option.php:57
+#: elementor-options/about-seven-option.php:20
+#: elementor-options/about-seven-option.php:69
+#: elementor-options/about-six-option.php:20
+#: elementor-options/about-six-option.php:59
+#: elementor-options/about-three-option.php:20
+#: elementor-options/about-three-option.php:89
+#: elementor-options/about-two-option.php:20
+#: elementor-options/about-two-option.php:63
+#: elementor-options/about-two-option.php:99
+#: elementor-options/about-two-option.php:149
+#: elementor-options/about-two-option.php:160
+#: elementor-options/amenities-one-option.php:20
+#: elementor-options/amenities-one-option.php:48
+#: elementor-options/apartment-check-list-option.php:19
+#: elementor-options/apartment-details-box-option.php:19
+#: elementor-options/apartment-details-two-option.php:20
+#: elementor-options/apartment-five-option.php:22
+#: elementor-options/apartment-four-option.php:23
+#: elementor-options/apartment-one-option.php:21
+#: elementor-options/apartment-one-option.php:48
+#: elementor-options/apartment-three-option.php:73
+#: elementor-options/apartment-two-option.php:21
+#: elementor-options/apartment-two-option.php:48
+#: elementor-options/availability-one-option.php:21
+#: elementor-options/award-one-option.php:19
+#: elementor-options/award-one-option.php:55
+#: elementor-options/blog-option.php:19
+#: elementor-options/call-to-action-two-option.php:62
+#: elementor-options/choose-one-option.php:20
+#: elementor-options/choose-one-option.php:51
+#: elementor-options/choose-one-option.php:94
+#: elementor-options/concept-one-option.php:20
+#: elementor-options/concept-one-option.php:32
+#: elementor-options/concept-one-option.php:58
+#: elementor-options/concept-one-option.php:71
+#: elementor-options/concept-two-option.php:20
+#: elementor-options/concept-two-option.php:32
+#: elementor-options/concept-two-option.php:58
+#: elementor-options/concept-two-option.php:71
+#: elementor-options/contact-form-five-option.php:19
+#: elementor-options/contact-form-four-option.php:19
+#: elementor-options/contact-form-one-option.php:21
+#: elementor-options/contact-form-three-option.php:19
+#: elementor-options/contact-form-two-option.php:19
+#: elementor-options/counter-one-option.php:23
+#: elementor-options/faq-one-option.php:21
+#: elementor-options/faq-one-option.php:97
+#: elementor-options/feature-one-option.php:23
+#: elementor-options/feature-three-option.php:23
+#: elementor-options/feature-two-option.php:23
+#: elementor-options/header-option.php:400
+#: elementor-options/image-box-one-option.php:45
+#: elementor-options/measurement-one-option.php:20
+#: elementor-options/neighborhood-one-option.php:20
+#: elementor-options/office-location-one-option.php:19
+#: elementor-options/team-one-option.php:19
+#: elementor-options/team-three-option.php:114
+#: elementor-options/testimonial-five-option.php:19
+#: elementor-options/testimonial-three-option.php:137
+#: elementor-options/testimonial-two-option.php:19
+#: elementor-options/video-one-option.php:20
+#: elementor-options/video-one-option.php:46
+#: elementor-options/woo-option.php:19 includes/Widgets/Sponsors.php:68
+msgid "Add title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:21
+#: elementor-options/about-five-option.php:79
+#: elementor-options/about-four-option.php:21
+#: elementor-options/about-four-option.php:60
+#: elementor-options/about-one-option.php:21
+#: elementor-options/about-seven-option.php:21
+#: elementor-options/about-seven-option.php:70
+#: elementor-options/about-six-option.php:21
+#: elementor-options/about-six-option.php:60
+#: elementor-options/about-three-option.php:21
+#: elementor-options/about-three-option.php:90
+#: elementor-options/about-two-option.php:21
+#: elementor-options/about-two-option.php:64
+#: elementor-options/amenities-one-option.php:21
+#: elementor-options/apartment-details-two-option.php:21
+#: elementor-options/apartment-one-option.php:22
+#: elementor-options/apartment-three-option.php:20
+#: elementor-options/apartment-three-option.php:21
+#: elementor-options/apartment-two-option.php:22
+#: elementor-options/apartment-two-option.php:50
+#: elementor-options/availability-one-option.php:22
+#: elementor-options/award-one-option.php:20
+#: elementor-options/award-one-option.php:56
+#: elementor-options/award-one-option.php:92
+#: elementor-options/blog-option.php:20
+#: elementor-options/call-to-action-one-option.php:21
+#: elementor-options/call-to-action-two-option.php:21
+#: elementor-options/call-to-action-two-option.php:63
+#: elementor-options/choose-one-option.php:21
+#: elementor-options/concept-one-option.php:21
+#: elementor-options/concept-one-option.php:33
+#: elementor-options/concept-two-option.php:21
+#: elementor-options/concept-two-option.php:33
+#: elementor-options/contact-form-five-option.php:20
+#: elementor-options/contact-form-four-option.php:20
+#: elementor-options/contact-form-one-option.php:22
+#: elementor-options/contact-form-one-option.php:88
+#: elementor-options/contact-form-three-option.php:20
+#: elementor-options/contact-form-three-option.php:44
+#: elementor-options/contact-form-three-option.php:89
+#: elementor-options/contact-form-two-option.php:20
+#: elementor-options/contact-form-two-option.php:68
+#: elementor-options/country-three-option.php:160
+#: elementor-options/faq-one-option.php:22
+#: elementor-options/faq-one-option.php:98
+#: elementor-options/feature-one-option.php:24
+#: elementor-options/feature-three-option.php:24
+#: elementor-options/feature-two-option.php:24
+#: elementor-options/icon-box-one-option.php:21
+#: elementor-options/icon-box-three-option.php:24
+#: elementor-options/icon-box-two-option.php:24
+#: elementor-options/image-box-one-option.php:21
+#: elementor-options/image-box-one-option.php:46
+#: elementor-options/main-slider-one-option.php:33
+#: elementor-options/main-slider-three-option.php:24
+#: elementor-options/main-slider-two-option.php:22
+#: elementor-options/main-slider-two-option.php:112
+#: elementor-options/measurement-one-option.php:21
+#: elementor-options/measurement-one-option.php:48
+#: elementor-options/neighborhood-one-option.php:21
+#: elementor-options/neighborhood-one-option.php:49
+#: elementor-options/office-location-one-option.php:20
+#: elementor-options/search-form-one-option.php:21
+#: elementor-options/sidebar-five-option.php:22
+#: elementor-options/sidebar-three-option.php:22
+#: elementor-options/sidebar-two-option.php:22
+#: elementor-options/story-details-one-option.php:19
+#: elementor-options/story-details-one-option.php:73
+#: elementor-options/team-one-option.php:20
+#: elementor-options/team-three-option.php:115
+#: elementor-options/testimonial-five-option.php:20
+#: elementor-options/testimonial-two-option.php:20
+#: elementor-options/video-one-option.php:21
+#: elementor-options/woo-option.php:20 includes/Widgets/Sponsors.php:69
+msgid "Default Title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:30
+#: elementor-options/about-four-option.php:31
+#: elementor-options/about-one-option.php:30
+#: elementor-options/about-seven-option.php:31
+#: elementor-options/about-six-option.php:31
+#: elementor-options/about-three-option.php:30
+#: elementor-options/about-two-option.php:30
+#: elementor-options/amenities-one-option.php:30
+#: elementor-options/apartment-details-two-option.php:30
+#: elementor-options/apartment-one-option.php:31
+#: elementor-options/apartment-two-option.php:31
+#: elementor-options/availability-one-option.php:31
+#: elementor-options/award-one-option.php:29
+#: elementor-options/blog-option.php:30
+#: elementor-options/concept-one-option.php:30
+#: elementor-options/concept-two-option.php:30
+#: elementor-options/contact-form-five-option.php:30
+#: elementor-options/contact-form-four-option.php:30
+#: elementor-options/contact-form-one-option.php:31
+#: elementor-options/contact-form-three-option.php:29
+#: elementor-options/contact-form-two-option.php:30
+#: elementor-options/country-one-option.php:30
+#: elementor-options/country-three-option.php:30
+#: elementor-options/country-two-option.php:30
+#: elementor-options/heading-one-option.php:30
+#: elementor-options/measurement-one-option.php:30
+#: elementor-options/neighborhood-one-option.php:31
+#: elementor-options/office-location-one-option.php:29
+#: elementor-options/price-one-option.php:30
+#: elementor-options/service-five-option.php:28
+#: elementor-options/service-four-option.php:28
+#: elementor-options/service-nine-option.php:28
+#: elementor-options/service-one-option.php:30
+#: elementor-options/service-seven-option.php:28
+#: elementor-options/service-three-option.php:28
+#: elementor-options/service-two-option.php:28
+#: elementor-options/step-one-option.php:30
+#: elementor-options/team-one-option.php:29
+#: elementor-options/testimonial-five-option.php:29
+#: elementor-options/testimonial-two-option.php:29
+#: elementor-options/values-one-option.php:30
+#: elementor-options/values-two-option.php:30
+#: elementor-options/video-one-option.php:30
+#: elementor-options/visa-one-option.php:30
+#: elementor-options/woo-option.php:38
+msgid "Section Sub Title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:32
+#: elementor-options/about-four-option.php:33
+#: elementor-options/about-one-option.php:32
+#: elementor-options/about-seven-option.php:33
+#: elementor-options/about-six-option.php:33
+#: elementor-options/about-three-option.php:32
+#: elementor-options/about-two-option.php:32
+#: elementor-options/amenities-one-option.php:32
+#: elementor-options/apartment-details-box-option.php:31
+#: elementor-options/apartment-details-two-option.php:32
+#: elementor-options/apartment-one-option.php:34
+#: elementor-options/apartment-two-option.php:34
+#: elementor-options/availability-one-option.php:34
+#: elementor-options/award-one-option.php:31
+#: elementor-options/blog-option.php:33
+#: elementor-options/contact-form-five-option.php:32
+#: elementor-options/contact-form-four-option.php:32
+#: elementor-options/contact-form-one-option.php:33
+#: elementor-options/contact-form-three-option.php:31
+#: elementor-options/contact-form-two-option.php:32
+#: elementor-options/measurement-one-option.php:33
+#: elementor-options/neighborhood-one-option.php:33
+#: elementor-options/office-location-one-option.php:31
+#: elementor-options/team-one-option.php:31
+#: elementor-options/testimonial-five-option.php:31
+#: elementor-options/testimonial-two-option.php:31
+#: elementor-options/woo-option.php:40
+msgid "Add sub title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:33
+#: elementor-options/about-four-option.php:34
+#: elementor-options/about-one-option.php:33
+#: elementor-options/about-seven-option.php:34
+#: elementor-options/about-six-option.php:34
+#: elementor-options/about-three-option.php:33
+#: elementor-options/about-two-option.php:33
+#: elementor-options/amenities-one-option.php:33
+#: elementor-options/apartment-details-two-option.php:33
+#: elementor-options/apartment-one-option.php:35
+#: elementor-options/apartment-three-option.php:33
+#: elementor-options/apartment-three-option.php:34
+#: elementor-options/apartment-two-option.php:35
+#: elementor-options/apartment-two-option.php:63
+#: elementor-options/availability-one-option.php:35
+#: elementor-options/award-one-option.php:32
+#: elementor-options/blog-option.php:34
+#: elementor-options/contact-form-five-option.php:33
+#: elementor-options/contact-form-four-option.php:33
+#: elementor-options/contact-form-one-option.php:34
+#: elementor-options/contact-form-three-option.php:32
+#: elementor-options/contact-form-two-option.php:33
+#: elementor-options/faq-one-option.php:110
+#: elementor-options/feature-one-option.php:38
+#: elementor-options/feature-three-option.php:53
+#: elementor-options/feature-two-option.php:53
+#: elementor-options/main-slider-three-option.php:37
+#: elementor-options/measurement-one-option.php:34
+#: elementor-options/measurement-one-option.php:60
+#: elementor-options/neighborhood-one-option.php:34
+#: elementor-options/neighborhood-one-option.php:62
+#: elementor-options/office-location-one-option.php:32
+#: elementor-options/team-one-option.php:32
+#: elementor-options/testimonial-five-option.php:32
+#: elementor-options/testimonial-two-option.php:32
+#: elementor-options/video-one-option.php:34
+#: elementor-options/woo-option.php:41
+msgid "Default Sub Title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:42
+#: elementor-options/about-three-option.php:54
+#: elementor-options/image-box-one-option.php:30
+#: elementor-options/team-three-option.php:50
+msgid "Highlighted Text"
+msgstr ""
+
+#: elementor-options/about-five-option.php:44
+#: elementor-options/about-five-option.php:66
+#: elementor-options/about-four-option.php:46
+#: elementor-options/about-one-option.php:44
+#: elementor-options/about-seven-option.php:46
+#: elementor-options/about-seven-option.php:56
+#: elementor-options/about-six-option.php:46
+#: elementor-options/about-two-option.php:44
+#: elementor-options/award-one-option.php:43
+#: elementor-options/contact-form-three-option.php:99
+#: elementor-options/contact-form-three-option.php:110
+#: elementor-options/footer-copyright-one-option.php:17
+msgid "Add Text"
+msgstr ""
+
+#: elementor-options/about-five-option.php:45
+#: elementor-options/about-five-option.php:67
+#: elementor-options/about-four-option.php:47
+#: elementor-options/about-one-option.php:45
+#: elementor-options/about-three-option.php:67
+#: elementor-options/about-three-option.php:77
+#: elementor-options/about-two-option.php:45
+#: elementor-options/award-one-option.php:44
+#: elementor-options/main-slider-two-option.php:141
+#: elementor-options/team-three-option.php:43
+msgid "Default Summary Text"
+msgstr ""
+
+#: elementor-options/about-five-option.php:52
+#: elementor-options/about-five-option.php:87
+#: elementor-options/about-four-option.php:78
+#: elementor-options/about-four-option.php:135
+#: elementor-options/about-one-option.php:75
+#: elementor-options/about-seven-option.php:77
+#: elementor-options/about-six-option.php:78
+#: elementor-options/about-three-option.php:98
+#: elementor-options/about-two-option.php:72
+#: elementor-options/about-two-option.php:191
+#: elementor-options/apartment-check-list-option.php:27
+#: elementor-options/apartment-five-option.php:68
+#: elementor-options/apartment-four-option.php:69
+#: elementor-options/apartment-one-option.php:94
+#: elementor-options/apartment-three-option.php:81
+#: elementor-options/award-one-option.php:64
+#: elementor-options/call-to-action-two-option.php:71
+#: elementor-options/counter-one-option.php:56
+#: elementor-options/faq-one-option.php:58
+#: elementor-options/feature-three-option.php:61
+#: elementor-options/feature-two-option.php:61
+#: elementor-options/footer-contact-one-option.php:42
+#: elementor-options/header-option.php:79
+#: elementor-options/header-option.php:373
+#: elementor-options/icon-box-one-option.php:28
+#: elementor-options/icon-box-three-option.php:46
+#: elementor-options/icon-box-two-option.php:32
+#: elementor-options/image-box-one-option.php:54
+#: elementor-options/main-slider-two-option.php:87
+#: elementor-options/main-slider-two-option.php:148
+#: elementor-options/measurement-one-option.php:77
+#: elementor-options/service-details-one-option.php:36
+#: elementor-options/service-eight-option.php:20
+#: elementor-options/service-four-option.php:87
+#: elementor-options/service-nine-option.php:79
+#: elementor-options/service-one-option.php:52
+#: elementor-options/service-six-option.php:67
+#: elementor-options/sidebar-three-option.php:52
+#: elementor-options/step-one-option.php:52
+#: elementor-options/team-three-option.php:123
+#: elementor-options/testimonial-five-option.php:94
+#: elementor-options/testimonial-four-option.php:66
+#: elementor-options/testimonial-three-option.php:170
+#: elementor-options/testimonial-two-option.php:119
+#: elementor-options/values-one-option.php:61
+#: elementor-options/values-two-option.php:61
+#: elementor-options/values-two-option.php:104
+#: elementor-options/values-two-option.php:147
+#: elementor-options/video-one-option.php:55
+#: elementor-options/visa-one-option.php:52
+msgid "Icon"
+msgstr ""
+
+#: elementor-options/about-five-option.php:64
+#: elementor-options/about-one-option.php:42
+#: elementor-options/about-two-option.php:42
+#: elementor-options/award-one-option.php:41
+#: elementor-options/country-four-option.php:33
+#: elementor-options/country-three-option.php:65
+#: elementor-options/main-slider-two-option.php:138
+#: elementor-options/measurement-one-option.php:58
+#: elementor-options/neighborhood-one-option.php:70
+#: elementor-options/office-location-one-option.php:41
+#: elementor-options/search-form-one-option.php:31
+#: elementor-options/service-four-option.php:39
+msgid "Summary"
+msgstr ""
+
+#: elementor-options/about-five-option.php:76
+#: elementor-options/about-four-option.php:56
+#: elementor-options/about-one-option.php:54
+#: elementor-options/about-seven-option.php:66
+#: elementor-options/about-six-option.php:56
+#: elementor-options/about-three-option.php:87
+#: elementor-options/about-two-option.php:61
+#: elementor-options/about-two-option.php:97
+#: elementor-options/amenities-one-option.php:45
+#: elementor-options/apartment-check-list-option.php:17
+#: elementor-options/apartment-details-box-option.php:17
+#: elementor-options/apartment-five-option.php:20
+#: elementor-options/apartment-four-option.php:21
+#: elementor-options/apartment-one-option.php:46
+#: elementor-options/apartment-three-option.php:17
+#: elementor-options/apartment-three-option.php:70
+#: elementor-options/apartment-two-option.php:46
+#: elementor-options/award-one-option.php:53
+#: elementor-options/award-one-option.php:90
+#: elementor-options/call-to-action-one-option.php:17
+#: elementor-options/call-to-action-two-option.php:17
+#: elementor-options/call-to-action-two-option.php:60
+#: elementor-options/choose-one-option.php:48
+#: elementor-options/choose-one-option.php:91
+#: elementor-options/concept-one-option.php:55
+#: elementor-options/concept-one-option.php:68
+#: elementor-options/concept-two-option.php:55
+#: elementor-options/concept-two-option.php:68
+#: elementor-options/contact-info-one-option.php:16
+#: elementor-options/contact-info-one-option.php:18
+#: elementor-options/counter-one-option.php:20
+#: elementor-options/country-four-option.php:20
+#: elementor-options/country-one-option.php:52
+#: elementor-options/country-three-option.php:52
+#: elementor-options/country-three-option.php:156
+#: elementor-options/country-two-option.php:52
+#: elementor-options/faq-one-option.php:19
+#: elementor-options/faq-one-option.php:95
+#: elementor-options/feature-one-option.php:20
+#: elementor-options/feature-three-option.php:20
+#: elementor-options/feature-two-option.php:20
+#: elementor-options/header-option.php:397
+#: elementor-options/icon-box-one-option.php:17
+#: elementor-options/icon-box-three-option.php:20
+#: elementor-options/icon-box-two-option.php:20
+#: elementor-options/image-box-one-option.php:17
+#: elementor-options/image-box-one-option.php:43
+#: elementor-options/main-slider-one-option.php:30
+#: elementor-options/main-slider-three-option.php:20
+#: elementor-options/main-slider-two-option.php:19
+#: elementor-options/main-slider-two-option.php:109
+#: elementor-options/measurement-one-option.php:45
+#: elementor-options/neighborhood-one-option.php:46
+#: elementor-options/offer-one-option.php:15
+#: elementor-options/progressbar-one-option.php:20
+#: elementor-options/search-form-one-option.php:17
+#: elementor-options/service-eight-option.php:32
+#: elementor-options/service-five-option.php:42
+#: elementor-options/service-four-option.php:50
+#: elementor-options/service-nine-option.php:42
+#: elementor-options/service-one-option.php:64
+#: elementor-options/service-seven-option.php:42
+#: elementor-options/service-six-option.php:20
+#: elementor-options/service-three-option.php:42
+#: elementor-options/service-two-option.php:50
+#: elementor-options/sidebar-five-option.php:18
+#: elementor-options/sidebar-four-option.php:19
+#: elementor-options/sidebar-one-option.php:19
+#: elementor-options/sidebar-three-option.php:18
+#: elementor-options/sidebar-two-option.php:18
+#: elementor-options/step-one-option.php:64
+#: elementor-options/story-details-one-option.php:17
+#: elementor-options/team-three-option.php:112
+#: elementor-options/testimonial-three-option.php:134
+#: elementor-options/values-one-option.php:73
+#: elementor-options/values-two-option.php:73
+#: elementor-options/values-two-option.php:116
+#: elementor-options/values-two-option.php:159
+#: elementor-options/video-one-option.php:43
+#: elementor-options/visa-offer-one-option.php:20
+#: elementor-options/visa-one-option.php:64 includes/Widgets/Login.php:67
+#: includes/Widgets/Register.php:66
+msgid "Title"
+msgstr ""
+
+#: elementor-options/about-five-option.php:99
+#: elementor-options/about-two-option.php:84
+#: elementor-options/award-one-option.php:76
+#: elementor-options/call-to-action-two-option.php:83
+#: elementor-options/counter-one-option.php:68
+#: elementor-options/image-box-one-option.php:66
+#: elementor-options/team-three-option.php:135
+msgid "Check Lists"
+msgstr ""
+
+#: elementor-options/about-five-option.php:110
+#: elementor-options/about-one-option.php:99
+#: elementor-options/about-seven-option.php:100
+#: elementor-options/about-three-option.php:121
+#: elementor-options/about-two-option.php:204
+#: elementor-options/amenities-one-option.php:81
+#: elementor-options/amenities-one-option.php:83
+#: elementor-options/apartment-details-two-option.php:42
+#: elementor-options/apartment-five-option.php:42
+#: elementor-options/apartment-four-option.php:43
+#: elementor-options/apartment-one-option.php:68
+#: elementor-options/apartment-two-option.php:80
+#: elementor-options/availability-one-option.php:198
+#: elementor-options/button-one-option.php:17
+#: elementor-options/call-to-action-one-option.php:30
+#: elementor-options/call-to-action-two-option.php:32
+#: elementor-options/country-three-option.php:168
+#: elementor-options/faq-one-option.php:31
+#: elementor-options/feature-one-option.php:66
+#: elementor-options/footer-subscribe-one-option.php:49
+#: elementor-options/footer-subscribe-one-option.php:51
+#: elementor-options/header-option.php:270
+#: elementor-options/main-slider-one-option.php:42
+#: elementor-options/main-slider-two-option.php:41
+#: elementor-options/price-one-option.php:134
+#: elementor-options/search-form-one-option.php:52
+#: elementor-options/sidebar-two-option.php:32
+#: elementor-options/story-details-one-option.php:112
+msgid "Button Label"
+msgstr ""
+
+#: elementor-options/about-five-option.php:112
+#: elementor-options/about-one-option.php:101
+#: elementor-options/about-seven-option.php:102
+#: elementor-options/about-three-option.php:123
+#: elementor-options/about-two-option.php:206
+#: elementor-options/faq-one-option.php:33
+#: elementor-options/main-slider-one-option.php:44
+#: elementor-options/main-slider-three-option.php:75
+#: elementor-options/main-slider-two-option.php:43
+msgid "Discover More"
+msgstr ""
+
+#: elementor-options/about-five-option.php:120
+#: elementor-options/about-one-option.php:110
+#: elementor-options/about-seven-option.php:111
+#: elementor-options/about-three-option.php:131
+#: elementor-options/about-two-option.php:214
+#: elementor-options/amenities-one-option.php:91
+#: elementor-options/apartment-details-two-option.php:53
+#: elementor-options/apartment-five-option.php:52
+#: elementor-options/apartment-four-option.php:53
+#: elementor-options/apartment-one-option.php:78
+#: elementor-options/apartment-two-option.php:90
+#: elementor-options/availability-one-option.php:208
+#: elementor-options/award-one-option.php:102
+#: elementor-options/button-one-option.php:27
+#: elementor-options/call-to-action-one-option.php:40
+#: elementor-options/call-to-action-two-option.php:42
+#: elementor-options/country-three-option.php:178
+#: elementor-options/faq-one-option.php:42
+#: elementor-options/header-option.php:126
+#: elementor-options/header-option.php:281
+#: elementor-options/main-slider-one-option.php:52
+#: elementor-options/main-slider-two-option.php:51
+#: elementor-options/offer-one-option.php:47
+#: elementor-options/price-one-option.php:144
+#: elementor-options/search-form-one-option.php:62
+#: elementor-options/sidebar-four-option.php:29
+#: elementor-options/sidebar-one-option.php:29
+#: elementor-options/sidebar-two-option.php:42
+#: elementor-options/story-details-one-option.php:122
+#: elementor-options/testimonial-four-option.php:30
+#: elementor-options/testimonial-two-option.php:63
+msgid "Button Url"
+msgstr ""
+
+#: elementor-options/about-five-option.php:122
+#: elementor-options/about-one-option.php:112
+#: elementor-options/about-seven-option.php:113
+#: elementor-options/about-three-option.php:133
+#: elementor-options/about-two-option.php:183
+#: elementor-options/about-two-option.php:216
+#: elementor-options/amenities-one-option.php:93
+#: elementor-options/apartment-details-two-option.php:55
+#: elementor-options/apartment-five-option.php:54
+#: elementor-options/apartment-four-option.php:55
+#: elementor-options/apartment-one-option.php:80
+#: elementor-options/apartment-three-option.php:54
+#: elementor-options/apartment-two-option.php:92
+#: elementor-options/availability-one-option.php:210
+#: elementor-options/award-one-option.php:104
+#: elementor-options/button-one-option.php:29
+#: elementor-options/call-to-action-one-option.php:42
+#: elementor-options/call-to-action-two-option.php:44
+#: elementor-options/choose-one-option.php:32
+#: elementor-options/country-four-option.php:46
+#: elementor-options/country-one-option.php:68
+#: elementor-options/country-three-option.php:78
+#: elementor-options/country-three-option.php:180
+#: elementor-options/country-two-option.php:68
+#: elementor-options/faq-one-option.php:44
+#: elementor-options/feature-one-option.php:79
+#: elementor-options/feature-three-option.php:35
+#: elementor-options/feature-two-option.php:35
+#: elementor-options/footer-about-one-option.php:68
+#: elementor-options/header-option.php:128
+#: elementor-options/header-option.php:222
+#: elementor-options/header-option.php:283
+#: elementor-options/header-option.php:437
+#: elementor-options/header-option.php:527
+#: elementor-options/icon-box-three-option.php:33
+#: elementor-options/main-slider-one-option.php:54
+#: elementor-options/main-slider-three-option.php:58
+#: elementor-options/main-slider-three-option.php:85
+#: elementor-options/main-slider-two-option.php:53
+#: elementor-options/main-slider-two-option.php:124
+#: elementor-options/offer-one-option.php:49
+#: elementor-options/pagination-one-option.php:42
+#: elementor-options/pagination-one-option.php:81
+#: elementor-options/price-one-option.php:146
+#: elementor-options/search-form-one-option.php:64
+#: elementor-options/service-eight-option.php:48
+#: elementor-options/service-five-option.php:76
+#: elementor-options/service-four-option.php:74
+#: elementor-options/service-nine-option.php:66
+#: elementor-options/service-one-option.php:80
+#: elementor-options/service-seven-option.php:58
+#: elementor-options/service-six-option.php:54
+#: elementor-options/service-three-option.php:66
+#: elementor-options/service-two-option.php:66
+#: elementor-options/sidebar-four-option.php:31
+#: elementor-options/sidebar-one-option.php:31
+#: elementor-options/sidebar-three-option.php:44
+#: elementor-options/sidebar-two-option.php:44
+#: elementor-options/step-one-option.php:89
+#: elementor-options/story-details-one-option.php:124
+#: elementor-options/story-details-one-option.php:149
+#: elementor-options/team-one-option.php:69
+#: elementor-options/team-three-option.php:77
+#: elementor-options/team-two-option.php:43
+#: elementor-options/testimonial-four-option.php:32
+#: elementor-options/testimonial-two-option.php:65
+#: elementor-options/video-one-option.php:92
+#: elementor-options/visa-offer-one-option.php:36
+#: elementor-options/visa-one-option.php:80
+#: includes/Widgets/HomeShowCase.php:93 includes/Widgets/HomeShowCase.php:120
+#: includes/Widgets/Login.php:129 post-templates/single-service.php:38
+msgid "#"
+msgstr ""
+
+#: elementor-options/about-five-option.php:137
+#: elementor-options/about-four-option.php:104
+#: elementor-options/about-one-option.php:129
+#: elementor-options/about-seven-option.php:130
+#: elementor-options/about-six-option.php:104
+#: elementor-options/about-three-option.php:148
+#: elementor-options/about-two-option.php:232
+#: elementor-options/footer-top-one-option.php:84
+msgid "Images"
+msgstr ""
+
+#: elementor-options/about-five-option.php:148
+#: elementor-options/about-four-option.php:115
+#: elementor-options/about-one-option.php:140
+#: elementor-options/about-six-option.php:115
+#: elementor-options/about-three-option.php:159
+#: elementor-options/contact-form-three-option.php:125
+#: elementor-options/values-one-option.php:102
+#: elementor-options/values-two-option.php:188
+msgid "Image One"
+msgstr ""
+
+#: elementor-options/about-five-option.php:159
+#: elementor-options/about-four-option.php:126
+#: elementor-options/about-one-option.php:151
+#: elementor-options/about-six-option.php:126
+#: elementor-options/about-three-option.php:170
+#: elementor-options/values-one-option.php:111
+msgid "Image Two"
+msgstr ""
+
+#: elementor-options/about-five-option.php:168
+msgid "Caption Count Text"
+msgstr ""
+
+#: elementor-options/about-five-option.php:170
+#: elementor-options/about-one-option.php:163
+#: elementor-options/about-two-option.php:256
+msgid "28"
+msgstr ""
+
+#: elementor-options/about-five-option.php:178
+#: elementor-options/about-two-option.php:264
+msgid "Caption Text"
+msgstr ""
+
+#: elementor-options/about-five-option.php:180
+#: elementor-options/about-four-option.php:71
+#: elementor-options/about-six-option.php:71
+#: elementor-options/about-two-option.php:266
+#: elementor-options/contact-form-three-option.php:100
+#: elementor-options/country-one-option.php:84
+#: elementor-options/feature-one-option.php:106
+#: elementor-options/footer-contact-one-option.php:35
+#: elementor-options/image-box-one-option.php:34
+#: elementor-options/search-form-one-option.php:35
+#: elementor-options/service-eight-option.php:64
+#: elementor-options/service-five-option.php:56
+#: elementor-options/service-four-option.php:64
+#: elementor-options/service-nine-option.php:56
+#: elementor-options/service-one-option.php:96
+#: elementor-options/service-seven-option.php:74
+#: elementor-options/service-six-option.php:34
+#: elementor-options/service-three-option.php:56
+#: elementor-options/service-two-option.php:82
+#: elementor-options/step-one-option.php:105
+#: elementor-options/story-details-one-option.php:31
+#: elementor-options/story-details-one-option.php:41
+#: elementor-options/visa-offer-one-option.php:51
+#: elementor-options/visa-one-option.php:96
+#: elementor-options/visa-one-option.php:107
+msgid "Default Text"
+msgstr ""
+
+#: elementor-options/about-five-option.php:188
+#: elementor-options/about-one-option.php:182
+#: elementor-options/about-seven-option.php:152
+#: elementor-options/about-six-option.php:135
+#: elementor-options/about-two-option.php:275
+#: elementor-options/call-to-action-one-option.php:65
+#: elementor-options/contact-form-four-option.php:52
+#: elementor-options/contact-form-three-option.php:61
+#: elementor-options/contact-info-one-option.php:59
+#: elementor-options/country-three-option.php:124
+#: elementor-options/step-one-option.php:113
+#: elementor-options/story-details-one-option.php:172
+#: elementor-options/testimonial-one-option.php:80
+#: elementor-options/testimonial-three-option.php:100
+#: elementor-options/visa-offer-one-option.php:126
+msgid "Shape One"
+msgstr ""
+
+#: elementor-options/about-five-option.php:197
+#: elementor-options/about-one-option.php:191
+#: elementor-options/about-seven-option.php:161
+#: elementor-options/about-six-option.php:144
+#: elementor-options/about-two-option.php:284
+#: elementor-options/call-to-action-one-option.php:74
+#: elementor-options/contact-form-four-option.php:61
+#: elementor-options/country-three-option.php:133
+#: elementor-options/step-one-option.php:122
+#: elementor-options/story-details-one-option.php:181
+#: elementor-options/testimonial-one-option.php:90
+#: elementor-options/testimonial-three-option.php:109
+#: elementor-options/visa-offer-one-option.php:135
+msgid "Shape Two"
+msgstr ""
+
+#: elementor-options/about-four-option.php:44
+#: elementor-options/country-four-option.php:36
+#: elementor-options/country-three-option.php:68
+#: elementor-options/service-four-option.php:41
+#: elementor-options/service-two-option.php:39
+#: elementor-options/service-two-option.php:41
+#: elementor-options/team-three-option.php:40
+msgid "Summary Text"
+msgstr ""
+
+#: elementor-options/about-four-option.php:67
+#: elementor-options/about-six-option.php:67
+#: elementor-options/service-five-option.php:64
+#: elementor-options/service-six-option.php:42
+#: elementor-options/step-one-option.php:77
+#: elementor-options/visa-offer-one-option.php:49
+#: elementor-options/visa-one-option.php:93
+msgid "Tag Line"
+msgstr ""
+
+#: elementor-options/about-four-option.php:70
+#: elementor-options/about-six-option.php:70
+msgid "Add Tag Line"
+msgstr ""
+
+#: elementor-options/about-four-option.php:90
+#: elementor-options/about-one-option.php:87
+#: elementor-options/about-six-option.php:90
+#: elementor-options/main-slider-two-option.php:160
+#: elementor-options/price-one-option.php:118
+#: elementor-options/testimonial-three-option.php:121
+#: elementor-options/testimonial-three-option.php:182
+msgid "Features"
+msgstr ""
+
+#: elementor-options/about-four-option.php:147
+msgid "Caption"
+msgstr ""
+
+#: elementor-options/about-four-option.php:150
+msgid "Add Caption"
+msgstr ""
+
+#: elementor-options/about-four-option.php:151
+msgid "Default Caption"
+msgstr ""
+
+#: elementor-options/about-four-option.php:158
+#: elementor-options/about-three-option.php:188
+#: elementor-options/amenities-one-option.php:118
+#: elementor-options/apartment-one-option.php:118
+#: elementor-options/award-one-option.php:139
+#: elementor-options/contact-form-five-option.php:52
+#: elementor-options/faq-one-option.php:168
+#: elementor-options/feature-one-option.php:57
+#: elementor-options/offer-one-option.php:74
+#: elementor-options/price-one-option.php:183
+#: elementor-options/search-form-one-option.php:88
+#: elementor-options/service-eight-option.php:93
+#: elementor-options/service-one-option.php:125
+#: elementor-options/service-seven-option.php:117
+#: elementor-options/service-two-option.php:125
+#: elementor-options/sidebar-two-option.php:76
+#: elementor-options/team-three-option.php:170
+#: elementor-options/testimonial-five-option.php:115
+#: elementor-options/testimonial-four-option.php:109
+#: elementor-options/testimonial-two-option.php:140
+#: elementor-options/video-one-option.php:109
+msgid "Shape"
+msgstr ""
+
+#: elementor-options/about-one-option.php:58
+#: elementor-options/about-one-option.php:68
+#: elementor-options/apartment-five-option.php:23
+#: elementor-options/apartment-four-option.php:24
+#: elementor-options/apartment-one-option.php:49
+#: elementor-options/apartment-three-option.php:74
+#: elementor-options/choose-one-option.php:52
+#: elementor-options/choose-one-option.php:95
+#: elementor-options/concept-one-option.php:59
+#: elementor-options/concept-one-option.php:72
+#: elementor-options/concept-two-option.php:59
+#: elementor-options/concept-two-option.php:72
+#: elementor-options/counter-one-option.php:24
+#: elementor-options/header-option.php:401
+#: elementor-options/video-one-option.php:47
+msgid "Default  Text"
+msgstr ""
+
+#: elementor-options/about-one-option.php:67
+#: elementor-options/footer-contact-one-option.php:34
+#: elementor-options/footer-top-one-option.php:22
+msgid "Add Content"
+msgstr ""
+
+#: elementor-options/about-one-option.php:160
+msgid "Image Caption Year"
+msgstr ""
+
+#: elementor-options/about-one-option.php:162
+msgid "Add Caption Year"
+msgstr ""
+
+#: elementor-options/about-one-option.php:171
+msgid "Image Caption Text"
+msgstr ""
+
+#: elementor-options/about-one-option.php:173
+msgid "Add Caption Text"
+msgstr ""
+
+#: elementor-options/about-one-option.php:174
+msgid "Default"
+msgstr ""
+
+#: elementor-options/about-one-option.php:200
+#: elementor-options/step-one-option.php:131
+#: elementor-options/story-details-one-option.php:190
+#: elementor-options/visa-offer-one-option.php:144
+msgid "Shape Three"
+msgstr ""
+
+#: elementor-options/about-one-option.php:209
+msgid "Badge Image"
+msgstr ""
+
+#: elementor-options/about-seven-option.php:44
+#: elementor-options/about-six-option.php:44
+msgid "Summary Text One"
+msgstr ""
+
+#: elementor-options/about-seven-option.php:47
+#: elementor-options/about-six-option.php:47
+msgid "Default Summary Text One"
+msgstr ""
+
+#: elementor-options/about-seven-option.php:54
+msgid "Summary Text Two"
+msgstr ""
+
+#: elementor-options/about-seven-option.php:57
+msgid "Default Summary Text Two"
+msgstr ""
+
+#: elementor-options/about-seven-option.php:89
+#: elementor-options/main-slider-two-option.php:31
+#: elementor-options/main-slider-two-option.php:33
+msgid "Check List"
+msgstr ""
+
+#: elementor-options/about-seven-option.php:141
+#: elementor-options/about-two-option.php:243
+#: elementor-options/apartment-five-option.php:32
+#: elementor-options/apartment-four-option.php:33
+#: elementor-options/apartment-one-option.php:58
+#: elementor-options/apartment-three-option.php:41
+#: elementor-options/apartment-two-option.php:70
+#: elementor-options/availability-one-option.php:236
+#: elementor-options/award-one-option.php:130
+#: elementor-options/feature-one-option.php:45
+#: elementor-options/feature-three-option.php:85
+#: elementor-options/feature-two-option.php:85
+#: elementor-options/footer-gallery-one-option.php:30
+#: elementor-options/footer-top-one-option.php:74
+#: elementor-options/gallery-five-option.php:19
+#: elementor-options/gallery-four-option.php:19
+#: elementor-options/gallery-one-option.php:19
+#: elementor-options/gallery-three-option.php:19
+#: elementor-options/gallery-two-option.php:21
+#: elementor-options/image-box-one-option.php:77
+#: elementor-options/measurement-one-option.php:68
+#: elementor-options/offer-one-option.php:63
+#: elementor-options/office-location-one-option.php:108
+#: elementor-options/service-details-one-option.php:24
+#: elementor-options/service-eight-option.php:84
+#: elementor-options/service-five-option.php:101
+#: elementor-options/service-four-option.php:111
+#: elementor-options/service-nine-option.php:103
+#: elementor-options/service-one-option.php:116
+#: elementor-options/service-seven-option.php:106
+#: elementor-options/service-six-option.php:91
+#: elementor-options/service-three-option.php:91
+#: elementor-options/service-two-option.php:114
+#: elementor-options/sidebar-two-option.php:58
+#: elementor-options/story-details-one-option.php:162
+#: elementor-options/team-one-option.php:94
+#: elementor-options/team-three-option.php:148
+#: elementor-options/team-three-option.php:159
+#: elementor-options/team-two-option.php:68
+#: elementor-options/testimonial-five-option.php:106
+#: elementor-options/testimonial-four-option.php:98
+#: elementor-options/testimonial-one-option.php:71
+#: elementor-options/testimonial-three-option.php:70
+#: elementor-options/testimonial-two-option.php:131
+#: elementor-options/visa-offer-one-option.php:108
+#: elementor-options/visa-one-option.php:115
+#: includes/Widgets/HomeShowCase.php:69
+msgid "Image"
+msgstr ""
+
+#: elementor-options/about-three-option.php:42
+msgid "Highlighted Text Icon"
+msgstr ""
+
+#: elementor-options/about-three-option.php:56
+#: elementor-options/image-box-one-option.php:33
+msgid "Add Highlighted Text"
+msgstr ""
+
+#: elementor-options/about-three-option.php:57
+#: elementor-options/team-three-option.php:53
+msgid "Default Highlighted Text"
+msgstr ""
+
+#: elementor-options/about-three-option.php:64
+#: elementor-options/story-details-one-option.php:29
+msgid "Summary One"
+msgstr ""
+
+#: elementor-options/about-three-option.php:66
+#: elementor-options/about-three-option.php:76
+#: elementor-options/main-slider-two-option.php:140
+#: elementor-options/search-form-one-option.php:34
+msgid "Add Summary Text"
+msgstr ""
+
+#: elementor-options/about-three-option.php:74
+#: elementor-options/story-details-one-option.php:39
+msgid "Summary Two"
+msgstr ""
+
+#: elementor-options/about-three-option.php:110
+#: elementor-options/feature-one-option.php:93
+#: elementor-options/feature-three-option.php:74
+#: elementor-options/feature-two-option.php:74
+msgid "Feature Lists"
+msgstr ""
+
+#: elementor-options/about-three-option.php:179
+msgid "Image Three"
+msgstr ""
+
+#: elementor-options/about-two-option.php:100
+msgid "Construction"
+msgstr ""
+
+#: elementor-options/about-two-option.php:109
+#: elementor-options/progressbar-one-option.php:30
+#: elementor-options/testimonial-three-option.php:145
+msgid "Count Number"
+msgstr ""
+
+#: elementor-options/about-two-option.php:129
+#: elementor-options/progressbar-one-option.php:50
+msgid "Progress Bar"
+msgstr ""
+
+#: elementor-options/about-two-option.php:147
+#: elementor-options/footer-top-one-option.php:31
+#: elementor-options/header-option.php:297
+#: elementor-options/sidebar-five-option.php:42
+msgid "Call Text"
+msgstr ""
+
+#: elementor-options/about-two-option.php:150
+#: elementor-options/sidebar-five-option.php:35
+msgid "Have Question?"
+msgstr ""
+
+#: elementor-options/about-two-option.php:158
+msgid "Call Text Two"
+msgstr ""
+
+#: elementor-options/about-two-option.php:161
+#: elementor-options/sidebar-five-option.php:46
+msgid "Free"
+msgstr ""
+
+#: elementor-options/about-two-option.php:169
+#: elementor-options/footer-top-one-option.php:41
+#: elementor-options/header-option.php:307
+#: elementor-options/sidebar-five-option.php:53
+#: elementor-options/sidebar-five-option.php:64
+msgid "Call Number"
+msgstr ""
+
+#: elementor-options/about-two-option.php:171
+#: elementor-options/counter-one-option.php:35
+#: elementor-options/testimonial-three-option.php:148
+#: elementor-options/testimonial-three-option.php:160
+msgid "Add Number"
+msgstr ""
+
+#: elementor-options/about-two-option.php:172
+#: elementor-options/sidebar-five-option.php:57
+msgid "+92 (8800) - 9850"
+msgstr ""
+
+#: elementor-options/about-two-option.php:180
+#: elementor-options/footer-top-one-option.php:51
+#: elementor-options/header-option.php:317
+msgid "Call Url"
+msgstr ""
+
+#: elementor-options/about-two-option.php:182
+#: elementor-options/footer-about-one-option.php:66
+#: elementor-options/header-option.php:220
+#: elementor-options/header-option.php:435
+#: elementor-options/header-option.php:525
+#: elementor-options/team-three-option.php:75
+#: elementor-options/video-one-option.php:91
+msgid "Add Url"
+msgstr ""
+
+#: elementor-options/about-two-option.php:254
+msgid "Caption Year"
+msgstr ""
+
+#: elementor-options/amenities-one-option.php:49
+msgid "Default Title  Text"
+msgstr ""
+
+#: elementor-options/amenities-one-option.php:58
+#: elementor-options/apartment-details-box-option.php:29
+#: elementor-options/apartment-two-option.php:59
+#: elementor-options/contact-info-one-option.php:28
+#: elementor-options/contact-info-one-option.php:30
+#: elementor-options/faq-one-option.php:107
+#: elementor-options/feature-one-option.php:34
+#: elementor-options/feature-three-option.php:49
+#: elementor-options/feature-two-option.php:49
+#: elementor-options/main-slider-three-option.php:33
+#: elementor-options/neighborhood-one-option.php:59
+#: elementor-options/offer-one-option.php:27
+msgid "Sub Title"
+msgstr ""
+
+#: elementor-options/amenities-one-option.php:61
+#: elementor-options/call-to-action-one-option.php:20
+#: elementor-options/call-to-action-two-option.php:20
+#: elementor-options/contact-form-three-option.php:88
+#: elementor-options/country-three-option.php:159
+#: elementor-options/footer-contact-one-option.php:17
+#: elementor-options/footer-gallery-one-option.php:17
+#: elementor-options/footer-nav-one-option.php:16
+#: elementor-options/footer-news-one-option.php:18
+#: elementor-options/icon-box-one-option.php:20
+#: elementor-options/icon-box-three-option.php:23
+#: elementor-options/icon-box-two-option.php:23
+#: elementor-options/image-box-one-option.php:20
+#: elementor-options/neighborhood-one-option.php:48
+#: elementor-options/offer-one-option.php:17
+#: elementor-options/search-form-one-option.php:20
+#: elementor-options/sidebar-five-option.php:21
+#: elementor-options/sidebar-five-option.php:34
+#: elementor-options/sidebar-three-option.php:21
+#: elementor-options/sidebar-two-option.php:21
+msgid "Add Title"
+msgstr ""
+
+#: elementor-options/amenities-one-option.php:62
+msgid "Default Sub Title Text"
+msgstr ""
+
+#: elementor-options/amenities-one-option.php:69
+#: elementor-options/choose-one-option.php:59
+#: elementor-options/choose-one-option.php:102
+#: elementor-options/concept-one-option.php:79
+#: elementor-options/concept-two-option.php:79
+msgid "Check Icon"
+msgstr ""
+
+#: elementor-options/amenities-one-option.php:107
+msgid "Amenities List"
+msgstr ""
+
+#: elementor-options/apartment-check-list-option.php:20
+msgid "Lorem ipsum dolor sit amet is simply free text available in the market"
+msgstr ""
+
+#: elementor-options/apartment-check-list-option.php:39
+#: elementor-options/apartment-details-box-option.php:41
+msgid "Box List One"
+msgstr ""
+
+#: elementor-options/apartment-details-box-option.php:20
+msgid "130"
+msgstr ""
+
+#: elementor-options/apartment-details-box-option.php:32
+msgid "SQUARE AREAS"
+msgstr ""
+
+#: elementor-options/apartment-details-two-option.php:44
+msgid "About More"
+msgstr ""
+
+#: elementor-options/apartment-details-two-option.php:69
+#: elementor-options/choose-one-option.php:125
+msgid "Background Image One"
+msgstr ""
+
+#: elementor-options/apartment-details-two-option.php:80
+#: elementor-options/concept-two-option.php:119
+#: elementor-options/testimonial-five-option.php:136
+msgid "Background Shape One"
+msgstr ""
+
+#: elementor-options/apartment-five-option.php:44
+#: elementor-options/apartment-four-option.php:45
+#: elementor-options/apartment-one-option.php:70
+#: elementor-options/apartment-two-option.php:82
+msgid "120 m2"
+msgstr ""
+
+#: elementor-options/apartment-five-option.php:80
+#: elementor-options/apartment-four-option.php:81
+#: elementor-options/apartment-one-option.php:106
+#: elementor-options/apartment-two-option.php:106
+msgid "Apartment Lists"
+msgstr ""
+
+#: elementor-options/apartment-three-option.php:6
+msgid "Apartment Content"
+msgstr ""
+
+#: elementor-options/apartment-three-option.php:30
+msgid "Sub title"
+msgstr ""
+
+#: elementor-options/apartment-three-option.php:52
+#: elementor-options/country-four-option.php:44
+#: elementor-options/country-one-option.php:66
+#: elementor-options/country-three-option.php:76
+#: elementor-options/country-two-option.php:66
+#: elementor-options/feature-one-option.php:77
+#: elementor-options/feature-three-option.php:33
+#: elementor-options/feature-two-option.php:33
+#: elementor-options/icon-box-three-option.php:31
+#: elementor-options/main-slider-two-option.php:122
+#: elementor-options/service-eight-option.php:46
+#: elementor-options/service-five-option.php:74
+#: elementor-options/service-four-option.php:72
+#: elementor-options/service-nine-option.php:64
+#: elementor-options/service-one-option.php:78
+#: elementor-options/service-seven-option.php:56
+#: elementor-options/service-six-option.php:52
+#: elementor-options/service-three-option.php:64
+#: elementor-options/service-two-option.php:64
+#: elementor-options/step-one-option.php:87
+#: elementor-options/team-one-option.php:67
+#: elementor-options/team-two-option.php:41
+#: elementor-options/visa-offer-one-option.php:34
+#: elementor-options/visa-one-option.php:78
+#: includes/Widgets/HomeShowCase.php:91 includes/Widgets/HomeShowCase.php:118
+msgid "Url"
+msgstr ""
+
+#: elementor-options/apartment-three-option.php:93
+msgid "Room Details List"
+msgstr ""
+
+#: elementor-options/apartment-two-option.php:62
+#: elementor-options/feature-one-option.php:37
+#: elementor-options/feature-three-option.php:52
+#: elementor-options/feature-two-option.php:52
+#: elementor-options/main-slider-three-option.php:36
+#: elementor-options/neighborhood-one-option.php:61
+#: elementor-options/offer-one-option.php:29
+msgid "Add Sub Title"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:47
+msgid "Residance Title"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:49
+msgid "Residance"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:57
+msgid "Room Title"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:59
+msgid "Room"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:67
+msgid "Bath Title"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:69
+msgid "Bath"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:77
+msgid "Squre Fit Title"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:79
+msgid "SQ.FT"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:87
+msgid "Floor Title"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:89
+msgid "Floor"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:97
+msgid "Terrace Title"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:99
+msgid "Terrace"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:107
+msgid "Plan Title"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:109
+msgid "Plan"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:117
+msgid "Availability Title List"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:138
+msgid "Residance Content"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:140
+msgid "Amazon"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:148
+msgid "Room Content"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:150
+msgid "3"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:158
+msgid "Bath Content"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:160
+#: elementor-options/availability-one-option.php:180
+msgid "2"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:168
+msgid "Squre Fit Content"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:170
+msgid "660"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:178
+msgid "Floor Content"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:188
+msgid "Terrace Content"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:190
+msgid "1"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:200
+msgid "View Details"
+msgstr ""
+
+#: elementor-options/availability-one-option.php:224
+msgid "Availability Content List"
+msgstr ""
+
+#: elementor-options/award-one-option.php:118
+msgid "Year"
+msgstr ""
+
+#: elementor-options/award-one-option.php:120
+msgid "Year Text"
+msgstr ""
+
+#: elementor-options/award-one-option.php:148
+msgid "Awards Items"
+msgstr ""
+
+#: elementor-options/award-one-option.php:159
+msgid "Shapes"
+msgstr ""
+
+#: elementor-options/blog-option.php:5
+msgid "Blog Header"
+msgstr ""
+
+#: elementor-options/blog-option.php:46
+msgid "Post Options"
+msgstr ""
+
+#: elementor-options/blog-option.php:55 elementor-options/blog-option.php:140
+#: elementor-options/footer-news-one-option.php:28
+#: elementor-options/woo-option.php:62
+msgid "Number Of Posts"
+msgstr ""
+
+#: elementor-options/blog-option.php:76 elementor-options/blog-option.php:164
+#: elementor-options/footer-news-one-option.php:49
+#: elementor-options/woo-option.php:123
+msgid "Select Order"
+msgstr ""
+
+#: elementor-options/blog-option.php:80 elementor-options/blog-option.php:168
+#: elementor-options/footer-news-one-option.php:53
+#: elementor-options/woo-option.php:127
+msgid "DESC"
+msgstr ""
+
+#: elementor-options/blog-option.php:81 elementor-options/blog-option.php:169
+#: elementor-options/footer-news-one-option.php:54
+#: elementor-options/woo-option.php:128
+msgid "ASC"
+msgstr ""
+
+#: elementor-options/blog-option.php:89 elementor-options/blog-option.php:180
+msgid "Post Category"
+msgstr ""
+
+#: elementor-options/blog-option.php:98
+msgid "Enable Pagination?"
+msgstr ""
+
+#: elementor-options/blog-option.php:117
+msgid "Post List Options"
+msgstr ""
+
+#: elementor-options/blog-option.php:128
+msgid "Enable Post List Style ?"
+msgstr ""
+
+#: elementor-options/button-one-option.php:19
+#: elementor-options/country-three-option.php:170
+#: elementor-options/header-option.php:272
+#: elementor-options/main-slider-three-option.php:48
+msgid "Book Appointment"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:32
+msgid "Apply for Visa"
+msgstr ""
+
+#: elementor-options/call-to-action-one-option.php:56
+msgid "bg Image"
+msgstr ""
+
+#: elementor-options/call-to-action-two-option.php:34
+#: elementor-options/price-one-option.php:136
+#: elementor-options/sidebar-two-option.php:34
+msgid "Apply Now"
+msgstr ""
+
+#: elementor-options/call-to-action-two-option.php:94
+#: elementor-options/concept-one-option.php:110
+#: elementor-options/concept-two-option.php:110
+#: elementor-options/contact-form-one-option.php:54
+#: elementor-options/contact-form-two-option.php:136
+#: elementor-options/counter-one-option.php:80
+#: elementor-options/country-one-option.php:124
+#: elementor-options/faq-one-option.php:70
+#: elementor-options/main-slider-one-option.php:19
+#: elementor-options/main-slider-three-option.php:99
+#: elementor-options/main-slider-two-option.php:67
+#: elementor-options/office-location-one-option.php:117
+#: elementor-options/service-five-option.php:122
+#: elementor-options/sidebar-two-option.php:67
+#: elementor-options/step-one-option.php:151
+#: elementor-options/testimonial-one-option.php:111
+#: elementor-options/video-one-option.php:100
+#: elementor-options/visa-one-option.php:145
+msgid "Background Image"
+msgstr ""
+
+#: elementor-options/choose-one-option.php:30
+#: elementor-options/video-one-option.php:89
+msgid "Video Url"
+msgstr ""
+
+#: elementor-options/choose-one-option.php:71
+msgid "Check List One"
+msgstr ""
+
+#: elementor-options/choose-one-option.php:114
+msgid "Check List Two"
+msgstr ""
+
+#: elementor-options/choose-one-option.php:134
+msgid "Background Image Two"
+msgstr ""
+
+#: elementor-options/choose-one-option.php:143
+#: elementor-options/concept-one-option.php:119
+#: elementor-options/contact-form-one-option.php:63
+#: elementor-options/footer-top-one-option.php:94
+#: elementor-options/testimonial-three-option.php:193
+msgid "Background Shape"
+msgstr ""
+
+#: elementor-options/concept-one-option.php:42
+#: elementor-options/concept-two-option.php:42
+#: elementor-options/testimonial-two-option.php:41
+#: elementor-options/values-one-option.php:42
+#: elementor-options/values-two-option.php:42
+msgid "Section Summary"
+msgstr ""
+
+#: elementor-options/concept-one-option.php:44
+#: elementor-options/concept-two-option.php:44
+#: elementor-options/office-location-one-option.php:43
+msgid "Add summary"
+msgstr ""
+
+#: elementor-options/concept-one-option.php:45
+#: elementor-options/concept-two-option.php:45
+#: elementor-options/neighborhood-one-option.php:73
+#: elementor-options/values-one-option.php:44
+#: elementor-options/values-two-option.php:44
+msgid "Default Summary"
+msgstr ""
+
+#: elementor-options/concept-one-option.php:91
+#: elementor-options/concept-two-option.php:91
+#: elementor-options/values-two-option.php:84
+msgid "Feature List One"
+msgstr ""
+
+#: elementor-options/concept-two-option.php:128
+#: elementor-options/testimonial-five-option.php:145
+msgid "Background Shape Two"
+msgstr ""
+
+#: elementor-options/contact-form-five-option.php:6
+#: elementor-options/contact-form-four-option.php:6
+#: elementor-options/contact-form-one-option.php:8
+#: elementor-options/contact-form-three-option.php:6
+#: elementor-options/contact-form-two-option.php:6
+#: includes/Widgets/ContactForm.php:15
+msgid "Contact Form"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:74
+#: elementor-options/contact-form-two-option.php:54
+msgid "Contents"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:85
+#: elementor-options/contact-form-two-option.php:65
+msgid "Faq Title"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:87
+#: elementor-options/contact-form-two-option.php:67
+msgid "Add faq title"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:97
+#: elementor-options/contact-form-two-option.php:77
+msgid "Faq Icon"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:111
+#: elementor-options/contact-form-two-option.php:91
+#: elementor-options/faq-one-option.php:121
+#: elementor-options/faq-two-option.php:21
+msgid "Question"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:113
+#: elementor-options/contact-form-two-option.php:93
+#: elementor-options/faq-one-option.php:123
+#: elementor-options/faq-two-option.php:23
+msgid "Add Question"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:114
+#: elementor-options/contact-form-two-option.php:94
+#: elementor-options/faq-one-option.php:124
+#: elementor-options/faq-two-option.php:24
+msgid "Default Question"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:124
+#: elementor-options/contact-form-two-option.php:104
+#: elementor-options/faq-one-option.php:136
+#: elementor-options/faq-two-option.php:34
+msgid "Add Answer"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:125
+#: elementor-options/contact-form-two-option.php:105
+#: elementor-options/faq-one-option.php:137
+#: elementor-options/faq-two-option.php:35
+msgid "Default Answer"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:133
+#: elementor-options/contact-form-three-option.php:136
+#: elementor-options/contact-form-two-option.php:113
+#: elementor-options/country-four-option.php:59
+#: elementor-options/country-three-option.php:91
+#: elementor-options/faq-one-option.php:145
+#: elementor-options/faq-two-option.php:43
+#: elementor-options/neighborhood-one-option.php:81
+#: elementor-options/office-location-one-option.php:126
+#: elementor-options/sidebar-four-option.php:45
+#: elementor-options/sidebar-one-option.php:45
+msgid "Is active?"
+msgstr ""
+
+#: elementor-options/contact-form-one-option.php:145
+#: elementor-options/contact-form-two-option.php:125
+#: elementor-options/faq-one-option.php:157
+msgid "FAQ List"
+msgstr ""
+
+#: elementor-options/contact-form-three-option.php:41
+msgid "Contact Form Title"
+msgstr ""
+
+#: elementor-options/contact-form-three-option.php:43
+msgid "Add Contact title"
+msgstr ""
+
+#: elementor-options/contact-form-three-option.php:72
+msgid "Tab"
+msgstr ""
+
+#: elementor-options/contact-form-three-option.php:85
+#: elementor-options/office-location-one-option.php:53
+msgid "Tab Title"
+msgstr ""
+
+#: elementor-options/contact-form-three-option.php:96
+#: elementor-options/country-one-option.php:81
+#: elementor-options/footer-about-one-option.php:41
+#: elementor-options/service-eight-option.php:61
+#: elementor-options/service-five-option.php:54
+#: elementor-options/service-four-option.php:62
+#: elementor-options/service-nine-option.php:54
+#: elementor-options/service-one-option.php:93
+#: elementor-options/service-seven-option.php:71
+#: elementor-options/service-six-option.php:32
+#: elementor-options/service-three-option.php:54
+#: elementor-options/service-two-option.php:79
+#: elementor-options/step-one-option.php:102
+#: elementor-options/visa-one-option.php:104
+msgid "Text"
+msgstr ""
+
+#: elementor-options/contact-form-three-option.php:107
+#: elementor-options/story-details-one-option.php:81
+msgid "Info Text"
+msgstr ""
+
+#: elementor-options/contact-form-three-option.php:111
+msgid ""
+"<li>\n"
+"                <div class=\"icon\">\n"
+"                    <i class=\"fas fa-map-marker-alt\"></i>\n"
+"                </div>\n"
+"                <div class=\"text\">\n"
+"                    <p>30 Commercial Road <br> Fratton, Australia</p>\n"
+"                </div>\n"
+"            </li>"
+msgstr ""
+
+#: elementor-options/contact-form-three-option.php:148
+#: elementor-options/contact-info-one-option.php:48
+#: elementor-options/footer-contact-one-option.php:54
+#: elementor-options/office-location-one-option.php:75
+msgid "Contact Info"
+msgstr ""
+
+#: elementor-options/contact-info-one-option.php:41
+msgid ""
+"<a href=\"mailto:needhelp@company.com\">needhelp@company.com</a> <br> <a "
+"href=\"tel:9200888690\">+92 (0088) - 8690</a>"
+msgstr ""
+
+#: elementor-options/counter-one-option.php:32
+msgid "Number"
+msgstr ""
+
+#: elementor-options/counter-one-option.php:36
+msgid "680"
+msgstr ""
+
+#: elementor-options/counter-one-option.php:44
+msgid "Sign"
+msgstr ""
+
+#: elementor-options/counter-one-option.php:47
+msgid "Add Sign"
+msgstr ""
+
+#: elementor-options/counter-one-option.php:48
+msgid "+"
+msgstr ""
+
+#: elementor-options/country-four-option.php:23
+#: elementor-options/country-one-option.php:20
+#: elementor-options/country-one-option.php:55
+#: elementor-options/country-three-option.php:20
+#: elementor-options/country-three-option.php:55
+#: elementor-options/country-two-option.php:20
+#: elementor-options/country-two-option.php:55
+#: elementor-options/heading-one-option.php:20
+#: elementor-options/main-slider-one-option.php:32
+#: elementor-options/main-slider-three-option.php:23
+#: elementor-options/main-slider-two-option.php:21
+#: elementor-options/main-slider-two-option.php:111
+#: elementor-options/offer-one-option.php:18
+#: elementor-options/offer-one-option.php:89
+#: elementor-options/price-one-option.php:20
+#: elementor-options/service-eight-option.php:35
+#: elementor-options/service-five-option.php:19
+#: elementor-options/service-five-option.php:44
+#: elementor-options/service-four-option.php:19
+#: elementor-options/service-four-option.php:52
+#: elementor-options/service-nine-option.php:19
+#: elementor-options/service-nine-option.php:44
+#: elementor-options/service-one-option.php:20
+#: elementor-options/service-one-option.php:67
+#: elementor-options/service-seven-option.php:19
+#: elementor-options/service-seven-option.php:45
+#: elementor-options/service-six-option.php:22
+#: elementor-options/service-three-option.php:19
+#: elementor-options/service-three-option.php:44
+#: elementor-options/service-two-option.php:19
+#: elementor-options/service-two-option.php:53
+#: elementor-options/step-one-option.php:20
+#: elementor-options/step-one-option.php:67
+#: elementor-options/values-one-option.php:20
+#: elementor-options/values-one-option.php:76
+#: elementor-options/values-two-option.php:20
+#: elementor-options/visa-offer-one-option.php:23
+#: elementor-options/visa-one-option.php:20
+#: elementor-options/visa-one-option.php:67
+msgid "Awesome Title"
+msgstr ""
+
+#: elementor-options/country-four-option.php:72
+#: elementor-options/country-one-option.php:104
+#: elementor-options/country-three-option.php:104
+#: elementor-options/country-two-option.php:93
+#: elementor-options/sidebar-four-option.php:57
+msgid "Icon Image"
+msgstr ""
+
+#: elementor-options/country-four-option.php:81
+#: elementor-options/country-one-option.php:113
+#: elementor-options/country-three-option.php:113
+#: elementor-options/country-two-option.php:102
+msgid "Country List"
+msgstr ""
+
+#: elementor-options/country-one-option.php:33
+#: elementor-options/country-three-option.php:33
+#: elementor-options/country-two-option.php:33
+#: elementor-options/heading-one-option.php:33
+#: elementor-options/offer-one-option.php:30
+#: elementor-options/price-one-option.php:33
+#: elementor-options/service-five-option.php:30
+#: elementor-options/service-four-option.php:30
+#: elementor-options/service-nine-option.php:30
+#: elementor-options/service-one-option.php:33
+#: elementor-options/service-seven-option.php:30
+#: elementor-options/service-three-option.php:30
+#: elementor-options/service-two-option.php:30
+#: elementor-options/step-one-option.php:33
+#: elementor-options/values-one-option.php:33
+#: elementor-options/values-two-option.php:33
+#: elementor-options/visa-one-option.php:33
+msgid "Awesome Sub Title"
+msgstr ""
+
+#: elementor-options/country-one-option.php:92
+#: elementor-options/service-eight-option.php:72
+#: elementor-options/service-one-option.php:104
+#: elementor-options/service-seven-option.php:82
+#: elementor-options/service-two-option.php:90
+msgid "Url Icon"
+msgstr ""
+
+#: elementor-options/country-three-option.php:145
+msgid "Bottom Content"
+msgstr ""
+
+#: elementor-options/country-three-option.php:194
+msgid "Bottom Shape"
+msgstr ""
+
+#: elementor-options/country-two-option.php:84
+msgid ""
+"<li><div class=\"icon\"><span class=\"icon-check\"></span></div><div "
+"class=\"text\"> <p>5 Years Business Visa</p></div></li>"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:7
+msgid "Left Content"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:84
+msgid "Right Content"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:109
+#: elementor-options/video-one-option.php:33
+msgid "Add Sub title"
+msgstr ""
+
+#: elementor-options/faq-one-option.php:134
+#: elementor-options/faq-two-option.php:32
+msgid "Answer"
+msgstr ""
+
+#: elementor-options/faq-two-option.php:56 includes/Widgets/Faq.php:15
+msgid "FAQ"
+msgstr ""
+
+#: elementor-options/feature-one-option.php:69
+msgid "Learn More"
+msgstr ""
+
+#: elementor-options/feature-one-option.php:104
+msgid "Bottom Text"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:17
+msgid "Add Logo"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:28
+#: elementor-options/header-option.php:27
+msgid "Logo Dimension"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:30
+#: elementor-options/header-option.php:29
+msgid "Set Custom Logo Size."
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:43
+msgid "Add paragraph text"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:44
+#: elementor-options/office-location-one-option.php:44
+msgid "Default text"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:53
+#: elementor-options/header-option.php:207
+#: elementor-options/header-option.php:422
+#: elementor-options/header-option.php:514
+#: elementor-options/team-three-option.php:62
+msgid "Select Icon"
+msgstr ""
+
+#: elementor-options/footer-about-one-option.php:82
+#: elementor-options/header-option.php:236
+#: elementor-options/header-option.php:451
+#: elementor-options/header-option.php:541
+#: elementor-options/team-three-option.php:91
+msgid "Social Icons"
+msgstr ""
+
+#: elementor-options/footer-contact-one-option.php:19
+msgid "Contact"
+msgstr ""
+
+#: elementor-options/footer-copyright-one-option.php:19
+msgid "&copy; Layerdrops"
+msgstr ""
+
+#: elementor-options/footer-gallery-one-option.php:6
+#: elementor-options/gallery-five-option.php:6
+#: elementor-options/gallery-four-option.php:6
+#: elementor-options/gallery-one-option.php:6
+#: elementor-options/gallery-three-option.php:6
+#: elementor-options/gallery-two-option.php:6
+msgid "Gallery Content"
+msgstr ""
+
+#: elementor-options/footer-gallery-one-option.php:19
+#: elementor-options/footer-gallery-one-option.php:41
+#: elementor-options/gallery-five-option.php:30
+#: elementor-options/gallery-four-option.php:30
+#: elementor-options/gallery-one-option.php:30
+#: elementor-options/gallery-three-option.php:30
+#: elementor-options/gallery-two-option.php:32 includes/Widgets/Gallery.php:15
+msgid "Gallery"
+msgstr ""
+
+#: elementor-options/footer-nav-one-option.php:18
+msgid "Explore"
+msgstr ""
+
+#: elementor-options/footer-nav-one-option.php:29
+#: elementor-options/header-option.php:51
+msgid "Select Nav Menu"
+msgstr ""
+
+#: elementor-options/footer-nav-one-option.php:40
+msgid "Nav Menus"
+msgstr ""
+
+#: elementor-options/footer-news-one-option.php:20
+msgid "News"
+msgstr ""
+
+#: elementor-options/footer-subscribe-one-option.php:17
+msgid "Widget Title"
+msgstr ""
+
+#: elementor-options/footer-subscribe-one-option.php:19
+msgid "Newsletter"
+msgstr ""
+
+#: elementor-options/footer-subscribe-one-option.php:29
+msgid "Add Mailchimp URL"
+msgstr ""
+
+#: elementor-options/footer-subscribe-one-option.php:39
+msgid "Input Placeholder Text"
+msgstr ""
+
+#: elementor-options/footer-subscribe-one-option.php:41
+msgid "Email address"
+msgstr ""
+
+#: elementor-options/footer-top-one-option.php:23
+msgid "Default Content"
+msgstr ""
+
+#: elementor-options/footer-top-one-option.php:33
+#: elementor-options/header-option.php:299
+msgid "Add Call Text"
+msgstr ""
+
+#: elementor-options/footer-top-one-option.php:43
+#: elementor-options/header-option.php:309
+#: elementor-options/sidebar-five-option.php:56
+msgid "Add Call Number"
+msgstr ""
+
+#: elementor-options/footer-top-one-option.php:53
+#: elementor-options/header-option.php:319
+#: elementor-options/sidebar-five-option.php:67
+msgid "Add Call Url"
+msgstr ""
+
+#: elementor-options/footer-top-one-option.php:62
+#: elementor-options/header-option.php:328
+msgid "Call Icon Image"
+msgstr ""
+
+#: elementor-options/header-option.php:7
+msgid "Site Logo"
+msgstr ""
+
+#: elementor-options/header-option.php:16
+msgid "Light Logo"
+msgstr ""
+
+#: elementor-options/header-option.php:43
+msgid "Navigation"
+msgstr ""
+
+#: elementor-options/header-option.php:64
+msgid "Topbar"
+msgstr ""
+
+#: elementor-options/header-option.php:92
+msgid "Topbar Info "
+msgstr ""
+
+#: elementor-options/header-option.php:94
+msgid "30 Broklyn Golden Street. USA"
+msgstr ""
+
+#: elementor-options/header-option.php:103
+#: elementor-options/header-option.php:142
+msgid "Top bar Info"
+msgstr ""
+
+#: elementor-options/header-option.php:116
+#: elementor-options/team-one-option.php:43
+#: elementor-options/team-three-option.php:18
+#: elementor-options/team-two-option.php:19
+#: elementor-options/testimonial-five-option.php:43
+#: elementor-options/testimonial-four-option.php:20
+#: elementor-options/testimonial-one-option.php:19
+#: elementor-options/testimonial-three-option.php:19
+#: elementor-options/testimonial-two-option.php:53
+msgid "Name"
+msgstr ""
+
+#: elementor-options/header-option.php:118 includes/Widgets/Login.php:15
+#: includes/Widgets/Login.php:109
+msgid "Login"
+msgstr ""
+
+#: elementor-options/header-option.php:156
+msgid "Others"
+msgstr ""
+
+#: elementor-options/header-option.php:164
+msgid "Enable Search?"
+msgstr ""
+
+#: elementor-options/header-option.php:176
+msgid "Display Cart Icon"
+msgstr ""
+
+#: elementor-options/header-option.php:191
+msgid "Social"
+msgstr ""
+
+#: elementor-options/header-option.php:193
+#: elementor-options/header-option.php:387
+msgid "Follow us:"
+msgstr ""
+
+#: elementor-options/header-option.php:258
+msgid "Social Background Shape"
+msgstr ""
+
+#: elementor-options/header-option.php:340
+#: elementor-options/header-option.php:408
+msgid "News Ticker"
+msgstr ""
+
+#: elementor-options/header-option.php:351
+msgid "Enable News Ticker?"
+msgstr ""
+
+#: elementor-options/header-option.php:363
+msgid "News Ticker Title"
+msgstr ""
+
+#: elementor-options/header-option.php:365
+msgid "Updates"
+msgstr ""
+
+#: elementor-options/header-option.php:385
+msgid "News Ticker Social Title"
+msgstr ""
+
+#: elementor-options/header-option.php:472
+msgid "Mobile Drawer"
+msgstr ""
+
+#: elementor-options/header-option.php:481
+msgid "Mobile Drawer Logo"
+msgstr ""
+
+#: elementor-options/header-option.php:492
+msgid "Email"
+msgstr ""
+
+#: elementor-options/header-option.php:494
+msgid "Add Email"
+msgstr ""
+
+#: elementor-options/header-option.php:502
+msgid "Phone"
+msgstr ""
+
+#: elementor-options/header-option.php:504
+msgid "Phone Number"
+msgstr ""
+
+#: elementor-options/heading-one-option.php:6
+msgid "Section Heading"
+msgstr ""
+
+#: elementor-options/icon-box-three-option.php:59
+#: elementor-options/icon-box-two-option.php:45
+#: includes/Widgets/IconBox.php:15
+msgid "Icon Box"
+msgstr ""
+
+#: elementor-options/main-slider-one-option.php:6
+#: elementor-options/main-slider-three-option.php:6
+#: elementor-options/main-slider-two-option.php:6
+msgid "Slider Content"
+msgstr ""
+
+#: elementor-options/main-slider-one-option.php:69
+#: elementor-options/main-slider-three-option.php:110
+#: elementor-options/main-slider-two-option.php:96
+#: includes/Widgets/MainSlider.php:15
+msgid "Main Slider"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:46
+msgid "Button One Label"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:56
+msgid "Button One Url"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:73
+#: elementor-options/story-details-one-option.php:137
+msgid "Button Two Label"
+msgstr ""
+
+#: elementor-options/main-slider-three-option.php:83
+#: elementor-options/story-details-one-option.php:147
+msgid "Button Two Url"
+msgstr ""
+
+#: elementor-options/main-slider-two-option.php:34
+msgid ""
+"<li><div class=\"icon\"><span class=\"icon-check\"></span></div><div "
+"class=\"text\"><p>No Interviews</p></div></li>"
+msgstr ""
+
+#: elementor-options/main-slider-two-option.php:78
+msgid "Background shape"
+msgstr ""
+
+#: elementor-options/measurement-one-option.php:89
+msgid "points"
+msgstr ""
+
+#: elementor-options/measurement-one-option.php:98
+msgid "Measurement Items"
+msgstr ""
+
+#: elementor-options/neighborhood-one-option.php:72
+msgid "Add Summary"
+msgstr ""
+
+#: elementor-options/neighborhood-one-option.php:94
+msgid "Neighborhood List"
+msgstr ""
+
+#: elementor-options/neighborhood-one-option.php:105
+msgid "Backround Image One"
+msgstr ""
+
+#: elementor-options/neighborhood-one-option.php:113
+msgid "Backround Image Two"
+msgstr ""
+
+#: elementor-options/offer-one-option.php:5
+msgid "Offer Content"
+msgstr ""
+
+#: elementor-options/offer-one-option.php:37
+msgid "Button Text"
+msgstr ""
+
+#: elementor-options/offer-one-option.php:39
+msgid "Shop Now"
+msgstr ""
+
+#: elementor-options/offer-one-option.php:83
+msgid "Offers"
+msgstr ""
+
+#: elementor-options/office-location-one-option.php:55
+msgid "South America"
+msgstr ""
+
+#: elementor-options/office-location-one-option.php:64
+msgid "Contact Info Title"
+msgstr ""
+
+#: elementor-options/office-location-one-option.php:66
+msgid "We’re Always Here for You"
+msgstr ""
+
+#: elementor-options/office-location-one-option.php:77
+msgid ""
+"<li>\n"
+"            <div class=\"icon\">\n"
+"                <i class=\"fas fa-map-marker-alt\"></i>\n"
+"            </div>\n"
+"            <div class=\"content\">\n"
+"                <p>30 Commercial Road <br>\n"
+"                    Fratton, Australia</p>\n"
+"            </div>\n"
+"        </li>"
+msgstr ""
+
+#: elementor-options/office-location-one-option.php:93
+msgid "Office Time"
+msgstr ""
+
+#: elementor-options/office-location-one-option.php:95
+msgid ""
+"<li>\n"
+"            <p class=\"location-one__tab-content-day-name\">Monday</p>\n"
+"            <h4 class=\"location-one__tab-content-time-box\">12:00 pm - "
+"19:00 pm\n"
+"            </h4>\n"
+"        </li>"
+msgstr ""
+
+#: elementor-options/office-location-one-option.php:138
+msgid "Tab Items"
+msgstr ""
+
+#: elementor-options/pagination-one-option.php:17
+msgid "Previous Text"
+msgstr ""
+
+#: elementor-options/pagination-one-option.php:19
+#: elementor-options/pagination-one-option.php:58
+msgid "Add Previous Text"
+msgstr ""
+
+#: elementor-options/pagination-one-option.php:20
+#: post-templates/single-portfolio.php:54
+msgid "Previous"
+msgstr ""
+
+#: elementor-options/pagination-one-option.php:28
+msgid "Previous Icon"
+msgstr ""
+
+#: elementor-options/pagination-one-option.php:40
+msgid "Prev Url"
+msgstr ""
+
+#: elementor-options/pagination-one-option.php:56
+msgid "Next Text"
+msgstr ""
+
+#: elementor-options/pagination-one-option.php:59
+#: post-templates/single-portfolio.php:59
+msgid "Next"
+msgstr ""
+
+#: elementor-options/pagination-one-option.php:67
+msgid "Next Icon"
+msgstr ""
+
+#: elementor-options/pagination-one-option.php:79
+msgid "Next Url"
+msgstr ""
+
+#: elementor-options/price-one-option.php:53
+msgid "Filter Name"
+msgstr ""
+
+#: elementor-options/price-one-option.php:55
+msgid "Add Filter Name"
+msgstr ""
+
+#: elementor-options/price-one-option.php:56
+msgid "Monthly Plan"
+msgstr ""
+
+#: elementor-options/price-one-option.php:63
+msgid "Filter Slug"
+msgstr ""
+
+#: elementor-options/price-one-option.php:65
+msgid "Add Filter Slug"
+msgstr ""
+
+#: elementor-options/price-one-option.php:66
+#: elementor-options/price-one-option.php:162
+msgid "monthly"
+msgstr ""
+
+#: elementor-options/price-one-option.php:73
+msgid "Filter"
+msgstr ""
+
+#: elementor-options/price-one-option.php:87
+msgid "Pricing Title"
+msgstr ""
+
+#: elementor-options/price-one-option.php:89
+msgid "Single Entry Visa Fee"
+msgstr ""
+
+#: elementor-options/price-one-option.php:97
+#: elementor-options/visa-offer-one-option.php:88
+#: includes/Widgets/Price.php:15
+msgid "Price"
+msgstr ""
+
+#: elementor-options/price-one-option.php:99
+msgid "$35"
+msgstr ""
+
+#: elementor-options/price-one-option.php:107
+msgid "Features Title"
+msgstr ""
+
+#: elementor-options/price-one-option.php:109
+msgid "All Visa Services Include:"
+msgstr ""
+
+#: elementor-options/price-one-option.php:120
+msgid ""
+"<li> <div class=\"icon\"><i class=\"fa fa-check\"></i>\n"
+"                </div>\n"
+"                <div class=\"text\">\n"
+"                    <p>10 Days Time</p>\n"
+"                </div>\n"
+"            </li>"
+msgstr ""
+
+#: elementor-options/price-one-option.php:160
+msgid "Slug"
+msgstr ""
+
+#: elementor-options/price-one-option.php:170
+msgid "Price Icon"
+msgstr ""
+
+#: elementor-options/price-one-option.php:192
+msgid "Pricing Items"
+msgstr ""
+
+#: elementor-options/progressbar-one-option.php:22
+#: elementor-options/team-one-option.php:45
+#: elementor-options/team-two-option.php:21
+msgid "Aleesha Brown"
+msgstr ""
+
+#: elementor-options/search-form-one-option.php:42
+msgid "Search placeholder"
+msgstr ""
+
+#: elementor-options/search-form-one-option.php:44
+msgid "Search Here"
+msgstr ""
+
+#: elementor-options/search-form-one-option.php:54
+msgid "Contact Now"
+msgstr ""
+
+#: elementor-options/search-form-one-option.php:78
+msgid "Button Info Text"
+msgstr ""
+
+#: elementor-options/search-form-one-option.php:80
+msgid "Explain us everything you need?"
+msgstr ""
+
+#: elementor-options/service-eight-option.php:103
+#: elementor-options/service-five-option.php:111
+#: elementor-options/service-four-option.php:121
+#: elementor-options/service-nine-option.php:113
+#: elementor-options/service-one-option.php:135
+#: elementor-options/service-seven-option.php:135
+#: elementor-options/service-six-option.php:101
+#: elementor-options/service-three-option.php:101
+#: elementor-options/service-two-option.php:143
+msgid "Service Items"
+msgstr ""
+
+#: elementor-options/service-five-option.php:66
+#: elementor-options/service-six-option.php:44
+msgid "Default Tag Line"
+msgstr ""
+
+#: elementor-options/service-five-option.php:89
+#: elementor-options/service-four-option.php:99
+#: elementor-options/service-nine-option.php:91
+#: elementor-options/service-six-option.php:79
+#: elementor-options/service-three-option.php:79
+msgid "Read More Icon"
+msgstr ""
+
+#: elementor-options/service-four-option.php:132
+#: elementor-options/service-three-option.php:112
+msgid "Background One"
+msgstr ""
+
+#: elementor-options/service-four-option.php:141
+#: elementor-options/service-three-option.php:121
+msgid "Background Two"
+msgstr ""
+
+#: elementor-options/service-seven-option.php:94
+#: elementor-options/service-two-option.php:102
+msgid "Hover Url Icon"
+msgstr ""
+
+#: elementor-options/service-seven-option.php:126
+#: elementor-options/service-two-option.php:134
+msgid "Icon On Hover"
+msgstr ""
+
+#: elementor-options/sidebar-five-option.php:31
+msgid "Call Title"
+msgstr ""
+
+#: elementor-options/sidebar-five-option.php:45
+msgid "Add Call Title"
+msgstr ""
+
+#: elementor-options/sidebar-five-option.php:68
+msgid "tel:9288009850"
+msgstr ""
+
+#: elementor-options/sidebar-five-option.php:75
+msgid "Call Icon"
+msgstr ""
+
+#: elementor-options/sidebar-four-option.php:21
+#: elementor-options/sidebar-one-option.php:21
+msgid "Citizenship Test"
+msgstr ""
+
+#: elementor-options/sidebar-four-option.php:66
+#: elementor-options/sidebar-one-option.php:57
+msgid "Sidebar Nav"
+msgstr ""
+
+#: elementor-options/sidebar-three-option.php:32
+msgid "File Size"
+msgstr ""
+
+#: elementor-options/sidebar-three-option.php:34
+msgid "3.9KB"
+msgstr ""
+
+#: elementor-options/sidebar-three-option.php:42
+msgid "File Url"
+msgstr ""
+
+#: elementor-options/step-one-option.php:79 includes/Widgets/Steps.php:15
+msgid "Step"
+msgstr ""
+
+#: elementor-options/step-one-option.php:140
+msgid "Step Items"
+msgstr ""
+
+#: elementor-options/story-details-one-option.php:49
+#: elementor-options/testimonial-five-option.php:64
+#: elementor-options/testimonial-four-option.php:78
+#: elementor-options/testimonial-one-option.php:50
+#: elementor-options/testimonial-three-option.php:40
+#: elementor-options/testimonial-two-option.php:89
+msgid "Rating"
+msgstr ""
+
+#: elementor-options/story-details-one-option.php:71
+msgid "title"
+msgstr ""
+
+#: elementor-options/story-details-one-option.php:83
+msgid "Default Info Title"
+msgstr ""
+
+#: elementor-options/story-details-one-option.php:91
+msgid "infos Items"
+msgstr ""
+
+#: elementor-options/story-details-one-option.php:102
+msgid "Client One"
+msgstr ""
+
+#: elementor-options/story-details-one-option.php:104
+msgid "Client"
+msgstr ""
+
+#: elementor-options/story-details-one-option.php:114
+msgid "Apply for Visa Now"
+msgstr ""
+
+#: elementor-options/story-details-one-option.php:139
+msgid "Read More Stories"
+msgstr ""
+
+#: elementor-options/story-details-one-option.php:199
+#: elementor-options/visa-offer-one-option.php:154
+msgid "Shape Four"
+msgstr ""
+
+#: elementor-options/team-one-option.php:55
+#: elementor-options/team-three-option.php:30
+#: elementor-options/team-two-option.php:31
+#: elementor-options/testimonial-five-option.php:54
+#: elementor-options/testimonial-four-option.php:46
+#: elementor-options/testimonial-one-option.php:31
+#: elementor-options/testimonial-three-option.php:30
+#: elementor-options/testimonial-two-option.php:79
+msgid "Designation"
+msgstr ""
+
+#: elementor-options/team-one-option.php:58
+#: elementor-options/team-two-option.php:34
+msgid "Consultants"
+msgstr ""
+
+#: elementor-options/team-one-option.php:83
+#: elementor-options/team-two-option.php:57
+msgid "Social NetWork"
+msgstr ""
+
+#: elementor-options/team-one-option.php:106
+#: elementor-options/team-two-option.php:80 includes/Widgets/Team.php:15
+msgid "Team"
+msgstr ""
+
+#: elementor-options/team-three-option.php:20
+msgid "Jessica Brown"
+msgstr ""
+
+#: elementor-options/team-three-option.php:33
+msgid "Visa & Immigration Consultant"
+msgstr ""
+
+#: elementor-options/team-three-option.php:179
+msgid "Image Icon"
+msgstr ""
+
+#: elementor-options/team-three-option.php:192
+msgid "Image Caption"
+msgstr ""
+
+#: elementor-options/team-three-option.php:195
+msgid "Default Image Caption"
+msgstr ""
+
+#: elementor-options/testimonial-five-option.php:45
+#: elementor-options/testimonial-four-option.php:22
+#: elementor-options/testimonial-one-option.php:21
+#: elementor-options/testimonial-three-option.php:21
+#: elementor-options/testimonial-two-option.php:55
+msgid "Kevin martin"
+msgstr ""
+
+#: elementor-options/testimonial-five-option.php:56
+#: elementor-options/testimonial-four-option.php:48
+#: elementor-options/testimonial-one-option.php:33
+#: elementor-options/testimonial-three-option.php:32
+#: elementor-options/testimonial-two-option.php:81
+msgid "Customer"
+msgstr ""
+
+#: elementor-options/testimonial-five-option.php:84
+#: elementor-options/testimonial-four-option.php:56
+#: elementor-options/testimonial-one-option.php:41
+#: elementor-options/testimonial-three-option.php:60
+#: elementor-options/testimonial-two-option.php:109
+msgid "Testimonial"
+msgstr ""
+
+#: elementor-options/testimonial-five-option.php:86
+#: elementor-options/testimonial-four-option.php:58
+#: elementor-options/testimonial-one-option.php:43
+#: elementor-options/testimonial-three-option.php:62
+#: elementor-options/testimonial-two-option.php:111
+msgid "Default Testimonial Content"
+msgstr ""
+
+#: elementor-options/testimonial-five-option.php:125
+#: elementor-options/testimonial-four-option.php:119
+#: elementor-options/testimonial-one-option.php:100
+#: elementor-options/testimonial-three-option.php:89
+#: elementor-options/testimonial-two-option.php:150
+msgid "Testimonial Items"
+msgstr ""
+
+#: elementor-options/testimonial-three-option.php:79
+msgid "Quote Image"
+msgstr ""
+
+#: elementor-options/testimonial-three-option.php:138
+msgid "Default  Title"
+msgstr ""
+
+#: elementor-options/testimonial-three-option.php:149
+msgid "68"
+msgstr ""
+
+#: elementor-options/testimonial-three-option.php:157
+msgid "Count Sign"
+msgstr ""
+
+#: elementor-options/testimonial-three-option.php:161
+msgid "K"
+msgstr ""
+
+#: elementor-options/testimonial-two-option.php:43
+msgid "Add Section Summary"
+msgstr ""
+
+#: elementor-options/testimonial-two-option.php:44
+msgid "Default Section Summary"
+msgstr ""
+
+#: elementor-options/values-one-option.php:84
+msgid "Values Items"
+msgstr ""
+
+#: elementor-options/values-one-option.php:120
+msgid "Shape Image One"
+msgstr ""
+
+#: elementor-options/values-two-option.php:76
+#: elementor-options/values-two-option.php:119
+#: elementor-options/values-two-option.php:162
+msgid "wellness"
+msgstr ""
+
+#: elementor-options/values-two-option.php:127
+msgid "Feature List Two"
+msgstr ""
+
+#: elementor-options/values-two-option.php:170
+msgid "Feature List Three"
+msgstr ""
+
+#: elementor-options/video-one-option.php:67
+msgid "Check list"
+msgstr ""
+
+#: elementor-options/video-one-option.php:78
+msgid "Video Text"
+msgstr ""
+
+#: elementor-options/video-one-option.php:81
+msgid "Add Video Text"
+msgstr ""
+
+#: elementor-options/video-one-option.php:82
+msgid "Default Video Text"
+msgstr ""
+
+#: elementor-options/visa-offer-one-option.php:63
+msgid ""
+"<li>\n"
+"        <div class=\"icon\">\n"
+"            <span class=\"icon-check\"></span>\n"
+"        </div>\n"
+"        <div class=\"text\">\n"
+"            <p>No IELTS Test Required</p>\n"
+"        </div>\n"
+"        </li>"
+msgstr ""
+
+#: elementor-options/visa-offer-one-option.php:78
+msgid "Price Text"
+msgstr ""
+
+#: elementor-options/visa-offer-one-option.php:80
+msgid "Starting with"
+msgstr ""
+
+#: elementor-options/visa-offer-one-option.php:90
+msgid "$360.00"
+msgstr ""
+
+#: elementor-options/visa-offer-one-option.php:98
+msgid "Visa Time"
+msgstr ""
+
+#: elementor-options/visa-offer-one-option.php:100
+msgid "30 DAYS VISA TIME"
+msgstr ""
+
+#: elementor-options/visa-offer-one-option.php:117
+msgid "Flag Image"
+msgstr ""
+
+#: elementor-options/visa-offer-one-option.php:164
+#: elementor-options/visa-one-option.php:134
+msgid "Visa Items"
+msgstr ""
+
+#: elementor-options/visa-one-option.php:124
+msgid "Hover Image"
+msgstr ""
+
+#: elementor-options/woo-option.php:6
+msgid "Section Header"
+msgstr ""
+
+#: elementor-options/woo-option.php:82 elementor-options/woo-option.php:109
+msgid "Product Category"
+msgstr ""
+
+#: elementor-options/woo-option.php:94
+msgid "Enable Filter"
+msgstr ""
+
+#: elementor-options/woo-option.php:96
+msgid "Show"
+msgstr ""
+
+#: elementor-options/woo-option.php:97
+msgid "Hide"
+msgstr ""
+
+#: includes/Customizer.php:27
+msgid "General Settings"
+msgstr ""
+
+#: includes/Customizer.php:185
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/Customizer.php:206
+msgid "Header Settings"
+msgstr ""
+
+#: includes/Customizer.php:401
+msgid "Login/Register Settings"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:19 includes/Metaboxes/Post.php:20
+msgid "General Options"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:26
+msgid "Enable Custom Header"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:30 includes/Metaboxes/Page.php:52
+#: includes/Metaboxes/Page.php:76 includes/Metaboxes/Page.php:87
+msgid "On"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:31 includes/Metaboxes/Page.php:53
+#: includes/Metaboxes/Page.php:77 includes/Metaboxes/Page.php:88
+msgid "Off"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:37
+msgid "Select Custom Header"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:48
+msgid "Enable Custom Footer"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:59
+msgid "Select Custom Footer"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:71
+msgid "Show Page Banner"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:82
+msgid "Enable BreadCrumb"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:98
+msgid "Header Title"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:108 includes/Metaboxes/Post.php:27
+msgid "Header Image"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:119
+msgid "Color Options"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:127
+msgid "Enable RTL Mode"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:134
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:141
+msgid "Enable Dark Mode"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:148
+msgid "Base Color"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:154
+msgid "Primary Color"
+msgstr ""
+
+#: includes/Metaboxes/Page.php:160
+msgid "Secondary Color"
+msgstr ""
+
+#: includes/Utility.php:28
+msgid "User name or email already exit"
+msgstr ""
+
+#: includes/Utility.php:44
+msgid "Please fill up all field"
+msgstr ""
+
+#: includes/Utility.php:49
+msgid "Please read term and condition and check it"
+msgstr ""
+
+#: includes/Utility.php:67
+msgid "Registration Successful"
+msgstr ""
+
+#: includes/Utility.php:93
+msgid "Logged In Successfully"
+msgstr ""
+
+#: includes/Widgets/About.php:15
+msgid "About"
+msgstr ""
+
+#: includes/Widgets/About.php:33 includes/Widgets/Award.php:35
+#: includes/Widgets/Blog.php:33 includes/Widgets/Button.php:34
+#: includes/Widgets/CallToAction.php:33 includes/Widgets/ContactForm.php:33
+#: includes/Widgets/Counter.php:34 includes/Widgets/Country.php:33
+#: includes/Widgets/Faq.php:34 includes/Widgets/Feature.php:34
+#: includes/Widgets/FooterAbout.php:34 includes/Widgets/FooterContact.php:34
+#: includes/Widgets/FooterCopyright.php:34
+#: includes/Widgets/FooterGallery.php:34 includes/Widgets/FooterNavMenu.php:34
+#: includes/Widgets/FooterTop.php:34 includes/Widgets/Gallery.php:34
+#: includes/Widgets/GoogleMaps.php:35 includes/Widgets/IconBox.php:34
+#: includes/Widgets/ImageBox.php:33 includes/Widgets/Login.php:33
+#: includes/Widgets/MainSlider.php:33 includes/Widgets/Offer.php:34
+#: includes/Widgets/OfficeLocation.php:35 includes/Widgets/Pagination.php:33
+#: includes/Widgets/Price.php:33 includes/Widgets/ProgressBar.php:33
+#: includes/Widgets/Register.php:33 includes/Widgets/SearchForm.php:33
+#: includes/Widgets/Service.php:33 includes/Widgets/ServiceDetails.php:33
+#: includes/Widgets/SideBar.php:33 includes/Widgets/Sponsors.php:34
+#: includes/Widgets/Steps.php:33 includes/Widgets/StoryDetails.php:35
+#: includes/Widgets/Team.php:33 includes/Widgets/Testimonials.php:35
+#: includes/Widgets/Video.php:34 includes/Widgets/Visa.php:33
+#: includes/Widgets/VisaOffer.php:33
+msgid "Layout"
+msgstr ""
+
+#: includes/Widgets/About.php:41 includes/Widgets/Award.php:43
+#: includes/Widgets/Blog.php:41 includes/Widgets/Button.php:42
+#: includes/Widgets/CallToAction.php:41 includes/Widgets/ContactForm.php:41
+#: includes/Widgets/Counter.php:42 includes/Widgets/Country.php:41
+#: includes/Widgets/Faq.php:42 includes/Widgets/Feature.php:42
+#: includes/Widgets/FooterAbout.php:42 includes/Widgets/FooterContact.php:42
+#: includes/Widgets/FooterCopyright.php:42
+#: includes/Widgets/FooterGallery.php:42 includes/Widgets/FooterNavMenu.php:42
+#: includes/Widgets/FooterTop.php:42 includes/Widgets/Gallery.php:42
+#: includes/Widgets/GoogleMaps.php:43 includes/Widgets/Header.php:41
+#: includes/Widgets/HomeShowCase.php:42 includes/Widgets/IconBox.php:42
+#: includes/Widgets/ImageBox.php:41 includes/Widgets/Login.php:41
+#: includes/Widgets/MainSlider.php:41 includes/Widgets/Offer.php:42
+#: includes/Widgets/OfficeLocation.php:43 includes/Widgets/Pagination.php:41
+#: includes/Widgets/Price.php:41 includes/Widgets/ProgressBar.php:41
+#: includes/Widgets/Register.php:41 includes/Widgets/SearchForm.php:41
+#: includes/Widgets/Service.php:41 includes/Widgets/ServiceDetails.php:41
+#: includes/Widgets/SideBar.php:41 includes/Widgets/Sponsors.php:42
+#: includes/Widgets/Steps.php:41 includes/Widgets/StoryDetails.php:43
+#: includes/Widgets/Team.php:41 includes/Widgets/Testimonials.php:43
+#: includes/Widgets/Video.php:42 includes/Widgets/Visa.php:41
+#: includes/Widgets/VisaOffer.php:41
+msgid "Select Layout"
+msgstr ""
+
+#: includes/Widgets/About.php:45 includes/Widgets/Award.php:47
+#: includes/Widgets/Blog.php:45 includes/Widgets/Button.php:46
+#: includes/Widgets/CallToAction.php:45 includes/Widgets/ContactForm.php:45
+#: includes/Widgets/Counter.php:46 includes/Widgets/Country.php:45
+#: includes/Widgets/Faq.php:46 includes/Widgets/Feature.php:46
+#: includes/Widgets/FooterAbout.php:46 includes/Widgets/FooterContact.php:46
+#: includes/Widgets/FooterCopyright.php:46
+#: includes/Widgets/FooterGallery.php:46 includes/Widgets/FooterNavMenu.php:46
+#: includes/Widgets/FooterTop.php:46 includes/Widgets/Gallery.php:46
+#: includes/Widgets/GoogleMaps.php:47 includes/Widgets/Header.php:45
+#: includes/Widgets/HomeShowCase.php:46 includes/Widgets/IconBox.php:46
+#: includes/Widgets/ImageBox.php:45 includes/Widgets/Login.php:45
+#: includes/Widgets/MainSlider.php:45 includes/Widgets/Offer.php:46
+#: includes/Widgets/OfficeLocation.php:47 includes/Widgets/Pagination.php:45
+#: includes/Widgets/Price.php:45 includes/Widgets/ProgressBar.php:45
+#: includes/Widgets/Register.php:45 includes/Widgets/SearchForm.php:45
+#: includes/Widgets/Service.php:45 includes/Widgets/SideBar.php:45
+#: includes/Widgets/Sponsors.php:46 includes/Widgets/Steps.php:45
+#: includes/Widgets/StoryDetails.php:47 includes/Widgets/Team.php:45
+#: includes/Widgets/Testimonials.php:47 includes/Widgets/Video.php:46
+#: includes/Widgets/Visa.php:45 includes/Widgets/VisaOffer.php:45
+msgid "Layout One"
+msgstr ""
+
+#: includes/Widgets/About.php:46 includes/Widgets/Blog.php:46
+#: includes/Widgets/CallToAction.php:46 includes/Widgets/ContactForm.php:46
+#: includes/Widgets/Country.php:46 includes/Widgets/Faq.php:47
+#: includes/Widgets/Feature.php:47 includes/Widgets/Gallery.php:47
+#: includes/Widgets/Header.php:46 includes/Widgets/IconBox.php:47
+#: includes/Widgets/MainSlider.php:46 includes/Widgets/Service.php:46
+#: includes/Widgets/SideBar.php:46 includes/Widgets/Sponsors.php:47
+#: includes/Widgets/Team.php:46 includes/Widgets/Testimonials.php:48
+msgid "Layout Two"
+msgstr ""
+
+#: includes/Widgets/About.php:47 includes/Widgets/Blog.php:47
+#: includes/Widgets/ContactForm.php:47 includes/Widgets/Country.php:47
+#: includes/Widgets/Feature.php:48 includes/Widgets/Gallery.php:48
+#: includes/Widgets/Header.php:47 includes/Widgets/IconBox.php:48
+#: includes/Widgets/MainSlider.php:47 includes/Widgets/Service.php:47
+#: includes/Widgets/SideBar.php:47 includes/Widgets/Sponsors.php:48
+#: includes/Widgets/Team.php:47 includes/Widgets/Testimonials.php:49
+msgid "Layout Three"
+msgstr ""
+
+#: includes/Widgets/About.php:48 includes/Widgets/Blog.php:48
+#: includes/Widgets/ContactForm.php:48 includes/Widgets/Country.php:48
+#: includes/Widgets/Service.php:48 includes/Widgets/SideBar.php:48
+#: includes/Widgets/Testimonials.php:50
+msgid "Layout Four"
+msgstr ""
+
+#: includes/Widgets/About.php:49 includes/Widgets/ContactForm.php:49
+#: includes/Widgets/Service.php:49 includes/Widgets/SideBar.php:49
+#: includes/Widgets/Testimonials.php:51
+msgid "Layout Five"
+msgstr ""
+
+#: includes/Widgets/About.php:50 includes/Widgets/Service.php:50
+msgid "Layout Six"
+msgstr ""
+
+#: includes/Widgets/About.php:51 includes/Widgets/Service.php:51
+msgid "Layout Seven"
+msgstr ""
+
+#: includes/Widgets/Award.php:15
+msgid "Award"
+msgstr ""
+
+#: includes/Widgets/Blog.php:15
+msgid "Blog"
+msgstr ""
+
+#: includes/Widgets/Button.php:15
+msgid "Button"
+msgstr ""
+
+#: includes/Widgets/CallToAction.php:15
+msgid "Call To Action"
+msgstr ""
+
+#: includes/Widgets/Counter.php:15
+msgid "Counter"
+msgstr ""
+
+#: includes/Widgets/Country.php:15
+msgid "Country"
+msgstr ""
+
+#: includes/Widgets/Feature.php:15
+msgid "Feature"
+msgstr ""
+
+#: includes/Widgets/FooterAbout.php:15
+msgid "Footer About"
+msgstr ""
+
+#: includes/Widgets/FooterContact.php:15
+msgid "Footer Contact"
+msgstr ""
+
+#: includes/Widgets/FooterCopyright.php:15
+msgid "Footer CopyRight"
+msgstr ""
+
+#: includes/Widgets/FooterGallery.php:15
+msgid "Footer Gallery"
+msgstr ""
+
+#: includes/Widgets/FooterNavMenu.php:15
+msgid "Footer Nav Menus"
+msgstr ""
+
+#: includes/Widgets/FooterTop.php:15
+msgid "Footer Top"
+msgstr ""
+
+#: includes/Widgets/GoogleMaps.php:16
+msgid "Google Maps"
+msgstr ""
+
+#: includes/Widgets/Header.php:15
+msgid "Header"
+msgstr ""
+
+#: includes/Widgets/Header.php:33
+msgid "Layout Type"
+msgstr ""
+
+#: includes/Widgets/HomeShowCase.php:15
+msgid "Home ShowCase"
+msgstr ""
+
+#: includes/Widgets/HomeShowCase.php:56 includes/Widgets/HomeShowCase.php:59
+msgid "Heading"
+msgstr ""
+
+#: includes/Widgets/HomeShowCase.php:80
+msgid "Multi Page Title"
+msgstr ""
+
+#: includes/Widgets/HomeShowCase.php:83
+msgid "Multi Page"
+msgstr ""
+
+#: includes/Widgets/HomeShowCase.php:107
+msgid "One Page Title"
+msgstr ""
+
+#: includes/Widgets/HomeShowCase.php:110
+msgid "One Page"
+msgstr ""
+
+#: includes/Widgets/HomeShowCase.php:134
+msgid "Mega Menu List"
+msgstr ""
+
+#: includes/Widgets/ImageBox.php:15
+msgid "Image Box"
+msgstr ""
+
+#: includes/Widgets/Login.php:69
+msgid "Login "
+msgstr ""
+
+#: includes/Widgets/Login.php:77
+msgid "Placeholder for username"
+msgstr ""
+
+#: includes/Widgets/Login.php:79
+msgid "Username or Email Address* "
+msgstr ""
+
+#: includes/Widgets/Login.php:87 includes/Widgets/Register.php:86
+msgid "Placeholder for Password"
+msgstr ""
+
+#: includes/Widgets/Login.php:89 includes/Widgets/Register.php:88
+msgid "Password* "
+msgstr ""
+
+#: includes/Widgets/Login.php:97
+msgid "Remember Me Text"
+msgstr ""
+
+#: includes/Widgets/Login.php:99
+msgid "Remember Me?"
+msgstr ""
+
+#: includes/Widgets/Login.php:107
+msgid "Login Button Text"
+msgstr ""
+
+#: includes/Widgets/Login.php:117
+msgid "Forgot Password Text"
+msgstr ""
+
+#: includes/Widgets/Login.php:119
+msgid "Forgot your Password?"
+msgstr ""
+
+#: includes/Widgets/Login.php:127
+msgid "Forgot Password Url"
+msgstr ""
+
+#: includes/Widgets/Offer.php:15
+msgid "Offer"
+msgstr ""
+
+#: includes/Widgets/OfficeLocation.php:15
+msgid "Office Location"
+msgstr ""
+
+#: includes/Widgets/Pagination.php:15
+msgid "Pagination"
+msgstr ""
+
+#: includes/Widgets/ProgressBar.php:15
+msgid "Progressbar"
+msgstr ""
+
+#: includes/Widgets/Register.php:15 includes/Widgets/Register.php:108
+msgid "Register"
+msgstr ""
+
+#: includes/Widgets/Register.php:68
+msgid "Register "
+msgstr ""
+
+#: includes/Widgets/Register.php:76
+msgid "Email Placeholder"
+msgstr ""
+
+#: includes/Widgets/Register.php:78
+msgid "Email Address"
+msgstr ""
+
+#: includes/Widgets/Register.php:96
+msgid "Privacy Text"
+msgstr ""
+
+#: includes/Widgets/Register.php:98
+msgid "I accept company <a href=\"#\">privacy policy</a>."
+msgstr ""
+
+#: includes/Widgets/Register.php:106
+msgid "Register Button Text"
+msgstr ""
+
+#: includes/Widgets/SearchForm.php:15
+msgid "Search Form"
+msgstr ""
+
+#: includes/Widgets/Service.php:15
+msgid "Service"
+msgstr ""
+
+#: includes/Widgets/Service.php:52
+msgid "Layout Eight"
+msgstr ""
+
+#: includes/Widgets/Service.php:53
+msgid "Layout Nine"
+msgstr ""
+
+#: includes/Widgets/ServiceDetails.php:15
+msgid "Service Details"
+msgstr ""
+
+#: includes/Widgets/ServiceDetails.php:45
+msgid "Layout One (Image)"
+msgstr ""
+
+#: includes/Widgets/SideBar.php:15
+msgid "Sidebar"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:15
+msgid "Sponsors"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:81
+msgid "Add Image"
+msgstr ""
+
+#: includes/Widgets/Sponsors.php:89
+msgid "Sponsor Items"
+msgstr ""
+
+#: includes/Widgets/StoryDetails.php:15
+msgid "Story Details"
+msgstr ""
+
+#: includes/Widgets/Testimonials.php:15
+msgid "Testimonials"
+msgstr ""
+
+#: includes/Widgets/Video.php:15
+msgid "Video"
+msgstr ""
+
+#: includes/Widgets/Visa.php:15
+msgid "Visa"
+msgstr ""
+
+#: includes/Widgets/VisaOffer.php:15
+msgid "Visa Offer"
+msgstr ""
+
+#: post-templates/single-service.php:36
+msgid "Add Contact Title"
+msgstr ""
+
+#: post-templates/single-service.php:38
+msgid "666 888 000"
+msgstr ""
+
+#: post-templates/single-service.php:39
+msgid "Call Us Anytime"
+msgstr ""
+
+#: treck-addon.php:229
+msgid "<strong>Error:</strong>Please use valid userName or password"
+msgstr ""
+
+#: treck-addon.php:364
+msgid "Treck Addon"
+msgstr ""

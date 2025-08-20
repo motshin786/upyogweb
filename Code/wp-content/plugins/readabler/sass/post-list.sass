@@ -1,0 +1,46 @@
+@import "tippy/tippy"
+
+@import "usage-analytics/vars"
+
+@import "usage-analytics/data-attributes"
+
+.mdp-readabler-usage-analytics-table-header
+  display: flex
+  align-items: center
+  justify-content: center
+  column-gap: 4px
+
+  img
+    width: 18px
+    height: 18px
+
+.mdp-readabler-usage-analytics-table-content
+  text-align: center
+
+  i
+    font-style: normal
+
+.mdp-readabler-tooltip
+  font-size: 14px
+  display: inline-flex
+  margin: 0
+  align-items: inherit
+  opacity: 0.25
+  color: inherit
+  transition: all 0.5s ease-in-out
+  cursor: help
+
+.wp-list-table
+
+  &:hover
+
+    .mdp-readabler-tooltip
+      opacity: 1
+      color: $wpAdminColor
+
+[data-readabler-loading]
+
+  i
+    display: inline-flex
+    align-items: center
+    min-width: 1rem

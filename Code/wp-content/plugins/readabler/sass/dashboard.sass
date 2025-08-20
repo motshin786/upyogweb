@@ -1,0 +1,35 @@
+@import "tippy/tippy"
+
+// Dashboard widget header
+@import "usage-analytics/header"
+
+// Dashboard widget content
+@import "usage-analytics/content"
+
+// Dashboard widget tabs
+@import "usage-analytics/tabs"
+
+#mdp-readabler-period-select
+  margin: 0
+  line-height: 1
+  border: none
+  color: $wpAdminColor
+  transition: all 0.2s ease-in-out
+  min-height: 20px
+  text-align: right
+
+  &:hover
+    color: $wpAdminColorHover
+    text-decoration: underline
+    transition: all 0.2s ease-in-out
+
+  &:focus
+    border: none
+    outline: none
+    box-shadow: none
+
+@media only screen and (max-width: 1180px)
+
+  .mdp-readabler-usage-analytics-row--triple
+    row-gap: 8px
+    flex-wrap: wrap

@@ -1,0 +1,166 @@
+@import "vars"
+
+// Metabox content
+.mdp-readabler-usage-analytics
+  display: flex
+  flex-direction: column
+  row-gap: 10px
+
+  .mdp-readabler-tooltip
+    font-size: 14px
+    display: inline-flex
+    margin: 0
+    align-items: inherit
+    opacity: 0.25
+    color: inherit
+    transition: all 0.5s ease-in-out
+    cursor: help
+
+  canvas
+    width: 100% !important
+
+  .mdp-readabler-usage-analytics-header
+    padding-bottom: 8px
+    border-bottom: 1px solid $wpBorderColor
+
+  .mdp-readabler-usage-analytics-row
+    width: 100%
+    display: flex
+    justify-content: space-between
+    color: #3c434a
+
+    &.mdp-readabler-usage-analytics-row--triple
+      justify-content: space-between
+
+      > div
+        flex-grow: 1
+
+    &.mdp-readabler-usage-modes-chart
+      display: flex
+      flex-direction: column
+
+      canvas
+        height: 600px !important
+        aspect-ratio: unset !important
+
+  .mdp-readabler-usage-hourly-usage-chart
+    height: 100px
+    min-height: 100px
+    margin: -4px 0 0 0
+
+    canvas
+      display: flex !important
+      aspect-ratio: unset !important
+      height: 100px !important
+
+  .mdp-readabler-sessions
+    padding: 0
+    margin: 0
+    display: flex
+    font-size: 14px
+    column-gap: 4px
+    align-items: center
+
+    > span > span
+      display: inline-flex
+      align-items: center
+      column-gap: 4px
+
+    i
+      display: inline-flex
+      font-style: normal
+      font-weight: 600
+
+  .mdp-readabler-number
+    font-size: 18px
+    font-weight: bold
+    margin-right: 10px
+    display: inline-flex
+    align-items: center
+    column-gap: 4px
+
+    i
+      font-style: normal
+
+  .mdp-readabler-label
+    font-size: 14px
+    font-weight: 400
+    display: flex
+    align-items: center
+    line-height: 1.5
+    column-gap: 4px
+
+  .mdp-readabler-usage-chart-legend
+    display: inline-flex
+    justify-content: flex-start
+    column-gap: 20px
+    border-top: 1px solid $wpBorderColor
+    padding: 10px 0 0 0
+
+    > span
+      display: inline-flex
+      align-items: center
+      column-gap: 4px
+      font-size: 14px
+
+      &:before
+        content: ''
+        display: inline-block
+        width: 12px
+        height: 12px
+        border-radius: 4px
+
+      &:first-of-type
+
+        &:before
+          background-color: rgb(33, 150, 243)
+
+      &:nth-of-type(2)
+
+        &:before
+          background-color: rgb(240, 56, 255)
+
+  &:hover
+
+    .mdp-readabler-tooltip
+      opacity: 1
+      color: $wpAdminColor
+      transition: all 0.5s ease-in-out
+
+  button
+    color: $wpAdminColor
+    font-size: 14px
+    align-items: center
+    display: inline-flex
+    column-gap: 4px
+
+    &:hover
+      color: $wpAdminColorHover
+
+    &.mdp-readabler-accordion-trigger
+      border: none
+      background: none
+      padding: 10px 0
+      margin: 0 0 -10px 0
+      cursor: pointer
+
+      .dashicons
+        font-size: 14px
+        display: contents
+
+        &:before
+          transform: rotate(0deg)
+          transition-duration: .5s
+
+    &.mdp-readabler-accordion-trigger--active
+
+      .dashicons
+
+        &:before
+          transform: rotate(180deg)
+          transition-duration: .5s
+
+  .mdp-readabler-accordion-content--active
+    display: flex !important
+
+@import "data-attributes"

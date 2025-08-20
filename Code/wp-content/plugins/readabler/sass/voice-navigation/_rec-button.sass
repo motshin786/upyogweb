@@ -1,0 +1,64 @@
+#mdp-readabler-voice-navigation-record-button
+  background: transparent
+  transition: all .2s ease-in-out
+  border-radius: 4px
+
+  &:before
+    padding: 8px
+
+  &:hover,
+  &:focus
+    transition: all .2s ease-in-out
+    outline: none
+
+.mdp-readabler-recognition-running
+
+  #mdp-readabler-voice-navigation-record-button
+    border-radius: 50%
+
+    &:before
+      content: ''
+      background: red
+      border-radius: 50%
+      animation: readabler-recognition-pulse 1s infinite
+      transition: all .2s ease-in-out
+
+    &:hover
+      border-radius: 4px
+
+      &:before
+        border-radius: 4px
+        transition: all .2s ease-in-out
+
+    &:focus
+      outline: none
+
+.mdp-readabler-recognition-paused
+
+  #mdp-readabler-voice-navigation-record-button
+
+    &:before
+      content: '▶'
+      font-family: sans-serif
+      font-size: 16px
+      padding: 4px 6px 0 10px
+
+    &:focus
+      outline: var(--readabler-color) solid 2px
+      outline-offset: 0
+
+.mdp-readabler-recognition-error
+
+  #mdp-readabler-voice-navigation-record-button
+    border-radius: 4px
+
+    &:before
+      content: '▶'
+      font-family: sans-serif
+      font-size: 16px
+      padding: 4px 6px 0 10px
+      color: red
+      animation: readabler-recognition-pulse 1s infinite
+
+    &:focus
+      outline: none

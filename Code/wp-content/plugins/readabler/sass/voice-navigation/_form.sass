@@ -1,0 +1,200 @@
+#mdp-readabler-voice-navigation-commands-form
+  display: inline-flex
+  align-items: center
+  width: 100%
+  column-gap: 8px
+  position: relative
+
+  &:after
+    content: ''
+    width: 100%
+    height: 2px
+    position: absolute
+    bottom: -20px
+
+  fieldset
+    font-size: 18px
+
+    &#mdp-readabler-voice-navigation-fieldset
+      display: inline-flex
+      flex-direction: column
+      padding: 0
+      margin: 0
+      border: none
+      background: transparent
+      flex-grow: 2
+      position: relative
+
+  input
+    border: none
+    background: transparent
+    padding: 0
+    margin: 0
+    border-radius: 4px
+
+    &#mdp-readabler-voice-navigation-input
+      font-size: 18px
+      height: 48px
+      line-height: 48px
+      width: 100%
+      font-weight: bold
+      z-index: 1
+
+    &#mdp-readabler-voice-navigation-history
+      font-size: 16px
+      line-height: 20px
+      height: 20px
+      width: 100%
+      position: absolute
+      bottom: -5px
+
+    &.mdp-readabler-voice-navigation-recognized
+      animation: readabler-recognition-recognized .75s
+      animation-fill-mode: both
+
+    &.mdp-readabler-voice-navigation-memorized
+      animation: readabler-recognition-memorized 2s
+      animation-fill-mode: both
+
+  canvas
+
+    &#mdp-readabler-voice-visualization
+      width: calc( 25% - 2px )
+      margin-left: 75%
+      height: 48px
+      position: absolute
+      top: 0
+      left: 1px
+      z-index: 0
+      transform: rotate(180deg)
+
+  button
+    padding: 0
+    margin: 0
+    border: 0
+    width: 24px
+    height: 24px
+    min-width: 24px
+    min-height: 24px
+    display: inline-flex
+    align-items: center
+    justify-content: center
+
+    &#mdp-readabler-voice-navigation-commands-trigger
+      background: transparent
+      outline: none
+      border-radius: 50%
+      cursor: pointer
+      transition: all .2s ease-in-out
+
+      &:hover,
+      &:focus
+        outline: none
+        transition: all .2s ease-in-out
+
+      &:before
+        content: ''
+        display: flex
+        width: 100%
+        height: 100%
+        mask-position: center
+        mask-repeat: no-repeat
+        mask-size: contain
+
+      &[data-accordion="collapse"]
+
+        &:before
+          mask-image: url('../images/voice-navigation/collapse.svg')
+
+      &[data-accordion="expand"]
+
+        &:before
+          mask-image: url('../images/voice-navigation/expand.svg')
+
+    &#mdp-readabler-voice-navigation-close-button
+      background: transparent
+      outline: none
+      border-radius: 50%
+      cursor: pointer
+      transition: all .2s ease-in-out
+
+      &:hover,
+      &:focus
+        outline: none
+        transition: all .2s ease-in-out
+
+      &:before
+        content: ''
+        display: flex
+        width: 100%
+        height: 100%
+        mask-position: center
+        mask-repeat: no-repeat
+        mask-size: contain
+        mask-image: url('../images/voice-navigation/close.svg')
+
+.mdp-readabler-recognition-error
+
+  #mdp-readabler-voice-navigation-input,
+  #mdp-readabler-voice-navigation-history
+    color: red
+
+    &::placeholder
+      color: red
+
+  #mdp-readabler-voice-navigation-input
+    height: 24px !important
+    order: 1 !important
+
+  #mdp-readabler-voice-navigation-history
+    height: 24px !important
+    position: relative !important
+    order: 2 !important
+    bottom: unset !important
+
+@import "rec-button"
+
+@keyframes readabler-recognition-pulse
+
+  0%
+    opacity: 1
+
+  25%
+    opacity: 0
+
+  50%
+    opacity: 0
+
+  75%
+    opacity: 1
+
+  100%
+    opacity: 1
+
+@keyframes readabler-recognition-recognized
+
+  0%
+    font-size: smaller
+
+  25%
+    font-size: larger
+
+  100%
+    font-size: 18px
+
+@keyframes readabler-recognition-memorized
+
+  0%
+    transform: translateY(-20px)
+    font-size: 16px
+
+  10%
+    transform: translateY(0px)
+    font-size: 10px
+    opacity: 1
+    filter: blur(0)
+
+  100%
+    opacity: 0
+    font-size: 10px
+    filter: blur(1px)

@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ * @since 3.1
+ */
+.count-holder {
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    border-radius: 3px;
+    /*background: rgb(5, 31, 87);
+    color: #fff;*/
+    margin: 2px;
+}
+.visitor-counter-content{
+	width: 200px;
+}

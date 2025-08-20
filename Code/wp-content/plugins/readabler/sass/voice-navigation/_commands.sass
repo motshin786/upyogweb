@@ -1,0 +1,98 @@
+@import "../includes/vars"
+
+.mdp-readabler-voice-navigation-commands-list
+  display: flex
+  overflow-y: auto
+  height: calc( 50vh - 60px - 26px - 26px ) // form height - 2 popup paddings
+  margin-bottom: 8px
+
+  &::-webkit-scrollbar-track
+    border-radius: 6px
+
+  &::-webkit-scrollbar
+    width: $controlSize/4
+
+  &::-webkit-scrollbar-thumb
+    border-radius: $controlSize/8
+
+  &.collapse-commands-accordion
+    animation-name: mdpReadablerVoiceCommandsAccordionOut
+    animation-duration: .2s
+    animation-fill-mode: both
+
+  &.expand-commands-accordion
+    animation-name: mdpReadablerVoiceCommandsAccordionIn
+    animation-duration: .5s
+    animation-fill-mode: both
+
+  &.scroll-up-gradient
+
+    &:before
+      content: ''
+      height: 50px
+      width: calc( 100% - 30px - 30px - 12px )
+      position: absolute
+
+  .mdp-readabler-voice-navigation-commands-container
+    display: flex
+    flex-direction: column
+    flex-wrap: nowrap
+    row-gap: $fontSize + 8px
+    padding: 0 2px
+
+  .mdp-readabler-voice-navigation-command-group
+    display: flex
+    flex-direction: column
+    row-gap: $fontSize / 2
+
+  .mdp-readabler-voice-navigation-commands
+    display: flex
+    flex-wrap: wrap
+    column-gap: $fontSize / 2
+    row-gap: $fontSize / 2
+
+  .mdp-readabler-voice-navigation-icon
+    display: inline-flex
+    align-items: center
+    justify-content: center
+    width: 16px
+    height: 16px
+    min-width: 16px
+    min-height: 16px
+
+    svg
+      width: 16px
+      max-width: 16px
+      height: 16px
+      max-height: 16px
+
+  button
+
+    &.mdp-readabler-voice-navigation-command
+      display: inline-flex
+      font-size: $fontSize - 2px
+      border-radius: $fontSize / 2
+      margin: 0
+      padding: 6px 12px
+      transition: .2s
+      white-space: nowrap
+      text-transform: none
+      letter-spacing: normal
+
+// Voice commands animation
+
+@keyframes mdpReadablerVoiceCommandsAccordionIn
+  from
+    transform: translateY(15%)
+    display: none
+  to
+    transform: translateY(0)
+    display: flex
+
+@keyframes mdpReadablerVoiceCommandsAccordionOut
+  from
+    transform: translateY(0)
+    display: flex
+  to
+    transform: translateY(10%)
+    display: none

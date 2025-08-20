@@ -1,0 +1,1032 @@
+[31mE[0m[31mE[0m[31mE[0m[31mE[0m[31mE[0m[31mE[0m[31mE[0m[31mE[0m[31mE[0m[31mE[0m[31mE[0m 11 / 11 (100%)
+
+
+
+[1mFILE: ...jafran/Local Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/templates/usage-email.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 9 ERRORS AFFECTING 6 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+ 10 | [31mERROR[0m | [1mMissing file doc comment[0m (Squiz.Commenting.FileComment.Missing)
+ 10 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+    |       | Developer Handbooks), found '$frequency'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 26 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+    |       | Developer Handbooks), found '$user_name'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 28 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+    |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 28 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+    |       | Developer Handbooks), found '$length'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 31 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+    |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 33 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+    |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 44 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+    |       | Developer Handbooks), found '$key'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 44 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+    |       | Developer Handbooks), found '$value'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: .../jafran/Local Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/includes/class-admin.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 6 ERRORS AFFECTING 5 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+  1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+    |       | class-wp-dark-mode-ultimate-admin.php, but found class-admin.php.[0m
+    |       | (WordPress.Files.FileName.InvalidClassFileName)
+  3 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  3 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+  6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 15 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+ 68 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: .../wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/wp-dark-mode-pro/includes/class-install.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 5 ERRORS AFFECTING 5 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+  1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+    |       | class-wp-dark-mode-pro-install.php, but found class-install.php.[0m
+    |       | (WordPress.Files.FileName.InvalidClassFileName)
+  3 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+    |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 15 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+ 74 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...p-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/wp-dark-mode-pro/includes/class-shortcode.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 8 ERRORS AFFECTING 8 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+   1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+     |       | class-wp-dark-mode-pro-shortcode.php, but found class-shortcode.php.[0m
+     |       | (WordPress.Files.FileName.InvalidClassFileName)
+   3 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+   6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  14 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+  30 | [31mERROR[0m | [1mDoc comment for parameter "$atts" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+  31 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  56 | [31mERROR[0m | [1mUse Yoda Condition checks, you must.[0m (WordPress.PHP.YodaConditions.NotYoda)
+ 101 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: /Users/jafran/Local Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/plugin.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 10 ERRORS AFFECTING 9 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+ 13 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+ 15 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 16 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+    |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 16 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+    |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 18 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+    |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 36 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 45 | [31mERROR[0m | [1mMissing doc comment for function wp_dark_mode_ultimate_install_wp_dark_mode()[0m
+    |       | (Squiz.Commenting.FunctionComment.Missing)
+ 50 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 57 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 59 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...jafran/Local Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/includes/class-widget.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 29 ERRORS AFFECTING 26 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+   1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+     |       | class-wp-dark-mode-pro-widget.php, but found class-widget.php.[0m
+     |       | (WordPress.Files.FileName.InvalidClassFileName)
+   6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  15 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+  30 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+  33 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+  41 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+  42 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+  51 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$args['before_widget']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  53 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$args['before_title']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  53 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'apply_filters'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  53 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$args['after_title']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  56 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$alignment'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  60 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$args['after_widget']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  66 | [31mERROR[0m | [1mParameter comment must end with a full stop[0m
+     |       | (Squiz.Commenting.FunctionComment.ParamCommentFullStop)
+  81 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 101 | [31mERROR[0m | [1mUse Yoda Condition checks, you must.[0m (WordPress.PHP.YodaConditions.NotYoda)
+ 103 | [31mERROR[0m | [1mUse Yoda Condition checks, you must.[0m (WordPress.PHP.YodaConditions.NotYoda)
+ 117 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$i'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 118 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$i'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 128 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 136 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 143 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 150 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 154 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 154 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 163 | [31mERROR[0m | [1mParameter comment must end with a full stop[0m
+     |       | (Squiz.Commenting.FunctionComment.ParamCommentFullStop)
+ 164 | [31mERROR[0m | [1mParameter comment must end with a full stop[0m
+     |       | (Squiz.Commenting.FunctionComment.ParamCommentFullStop)
+ 178 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 204 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: .../wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/wp-dark-mode-pro/includes/class-enqueue.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 13 ERRORS AFFECTING 12 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+   1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+     |       | class-wp-dark-mode-pro-enqueue.php, but found class-enqueue.php.[0m
+     |       | (WordPress.Files.FileName.InvalidClassFileName)
+   3 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+   3 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+   6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  14 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+  30 | [31mERROR[0m | [1mDoc comment for parameter "$hook" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+  33 | [31mERROR[0m | [1mMissing parameter name[0m (Squiz.Commenting.FunctionComment.MissingParamName)
+  44 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  53 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  80 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  83 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  88 | [31mERROR[0m | [1mOverriding WordPress globals is prohibited. Found assignment to $current_screen[0m
+     |       | (WordPress.WP.GlobalVariablesOverride.Prohibited)
+ 134 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: /Users/jafran/Local Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/includes/base.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 40 ERRORS AFFECTING 35 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+   1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+     |       | class-wp-dark-mode-ultimate.php, but found base.php.[0m
+     |       | (WordPress.Files.FileName.InvalidClassFileName)
+   2 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+   2 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+   3 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+   3 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+  48 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  50 | [31mERROR[0m | [1mFunction return type is not void, but function has no return statement[0m
+     |       | (Squiz.Commenting.FunctionComment.InvalidNoReturn)
+  81 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  83 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  89 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  92 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+  93 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 117 | [31mERROR[0m | [1mA gettext call containing placeholders was found, but was not accompanied by a "translators:"
+     |       | comment on the line above to clarify the meaning of the placeholders.[0m
+     |       | (WordPress.WP.I18n.MissingTranslatorsComment)
+ 117 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 124 | [31mERROR[0m | [1mA gettext call containing placeholders was found, but was not accompanied by a "translators:"
+     |       | comment on the line above to clarify the meaning of the placeholders.[0m
+     |       | (WordPress.WP.I18n.MissingTranslatorsComment)
+ 125 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 125 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 126 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 128 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 142 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$notice'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 162 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 165 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 170 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 206 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 213 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 218 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 238 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 239 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 246 | [31mERROR[0m | [1mextract() usage is highly discouraged, due to the complexity and unintended issues it might
+     |       | cause.[0m (WordPress.PHP.DontExtract.extract_extract)
+ 262 | [31mERROR[0m | [1mDoc comment for parameter "$class" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 262 | [31mERROR[0m | [1mDoc comment for parameter "$message" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 263 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 265 | [31mERROR[0m | [1mMissing parameter name[0m (Squiz.Commenting.FunctionComment.MissingParamName)
+ 266 | [31mERROR[0m | [1mMissing parameter name[0m (Squiz.Commenting.FunctionComment.MissingParamName)
+ 267 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 303 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$notice['class']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 304 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$notice['message']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 331 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 333 | [31mERROR[0m | [1mMissing doc comment for function wp_dark_mode_ultimate()[0m
+     |       | (Squiz.Commenting.FunctionComment.Missing)
+ 338 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...ocal Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/includes/install-wp-dark-mode.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 66 ERRORS AFFECTING 48 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+  53 | [31mERROR[0m | [1mMissing file doc comment[0m (Squiz.Commenting.FileComment.Missing)
+  89 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 112 | [31mERROR[0m | [1mOverriding WordPress globals is prohibited. Found assignment to $plugin[0m
+     |       | (WordPress.WP.GlobalVariablesOverride.Prohibited)
+ 114 | [31mERROR[0m | [1mOverriding WordPress globals is prohibited. Found assignment to $plugin[0m
+     |       | (WordPress.WP.GlobalVariablesOverride.Prohibited)
+ 139 | [31mERROR[0m | [1mOverriding WordPress globals is prohibited. Found assignment to $title[0m
+     |       | (WordPress.WP.GlobalVariablesOverride.Prohibited)
+ 150 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 163 | [31mERROR[0m | [1mOverriding WordPress globals is prohibited. Found assignment to $status[0m
+     |       | (WordPress.WP.GlobalVariablesOverride.Prohibited)
+ 174 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 176 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 181 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 196 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 198 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 203 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 214 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 217 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 219 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 230 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 232 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 245 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 261 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 263 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 293 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 293 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 297 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 297 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 298 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'self_admin_url'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 305 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 305 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 306 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'self_admin_url'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 311 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 311 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 317 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 317 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 321 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 321 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 322 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'self_admin_url'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 326 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 326 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 330 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 330 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 343 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$title'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 351 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$action_links'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 356 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$description'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 357 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$author'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 371 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'number_format_i18n'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 374 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 374 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 377 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 377 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 377 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'human_time_diff'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 386 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 390 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 395 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 395 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 395 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$active_installs_text'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 401 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 401 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 403 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 403 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 405 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 405 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 417 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 417 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 418 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 418 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 443 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'admin_url'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...ran/Local Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/includes/class-shortcode.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 8 ERRORS AFFECTING 8 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+  1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+    |       | class-wp-dark-mode-pro-shortcode.php, but found class-shortcode.php.[0m
+    |       | (WordPress.Files.FileName.InvalidClassFileName)
+  3 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+  6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 14 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+ 30 | [31mERROR[0m | [1mDoc comment for parameter "$atts" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 31 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 53 | [31mERROR[0m | [1mUse Yoda Condition checks, you must.[0m (WordPress.PHP.YodaConditions.NotYoda)
+ 98 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...es/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/wp-dark-mode-pro/includes/class-admin.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 5 ERRORS AFFECTING 5 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+   1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+     |       | class-wp-dark-mode-admin.php, but found class-admin.php.[0m
+     |       | (WordPress.Files.FileName.InvalidClassFileName)
+  26 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+  34 | [31mERROR[0m | [1mDoc comment long description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.LongNotCapital)
+  42 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 140 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...cal Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/wp-dark-mode-pro/includes/base.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 32 ERRORS AFFECTING 27 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+   1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+     |       | class-wp-dark-mode-pro.php, but found base.php.[0m (WordPress.Files.FileName.InvalidClassFileName)
+   2 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+   2 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+   3 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+   3 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+   5 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  58 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  60 | [31mERROR[0m | [1mFunction return type is not void, but function has no return statement[0m
+     |       | (Squiz.Commenting.FunctionComment.InvalidNoReturn)
+ 101 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 129 | [31mERROR[0m | [1mA gettext call containing placeholders was found, but was not accompanied by a "translators:"
+     |       | comment on the line above to clarify the meaning of the placeholders.[0m
+     |       | (WordPress.WP.I18n.MissingTranslatorsComment)
+ 129 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 143 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 143 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 144 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 146 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 160 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$notice'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 203 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 210 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 216 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 236 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 237 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 244 | [31mERROR[0m | [1mextract() usage is highly discouraged, due to the complexity and unintended issues it might
+     |       | cause.[0m (WordPress.PHP.DontExtract.extract_extract)
+ 260 | [31mERROR[0m | [1mDoc comment for parameter "$class" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 260 | [31mERROR[0m | [1mDoc comment for parameter "$message" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 261 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 263 | [31mERROR[0m | [1mMissing parameter name[0m (Squiz.Commenting.FunctionComment.MissingParamName)
+ 264 | [31mERROR[0m | [1mMissing parameter name[0m (Squiz.Commenting.FunctionComment.MissingParamName)
+ 300 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$notice['class']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 301 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$notice['message']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 329 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 331 | [31mERROR[0m | [1mMissing doc comment for function wp_dark_mode_pro()[0m (Squiz.Commenting.FunctionComment.Missing)
+ 336 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...rs/jafran/Local Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/includes/functions.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 1 ERROR AFFECTING 1 LINE[0m
+-------------------------------------------------------------------------------------------------------------------
+ 1 | [31mERROR[0m | [1mMissing file doc comment[0m (Squiz.Commenting.FileComment.Missing)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...afran/Local Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/includes/class-install.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 7 ERRORS AFFECTING 6 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+  1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+    |       | class-wp-dark-mode-ultimate-install.php, but found class-install.php.[0m
+    |       | (WordPress.Files.FileName.InvalidClassFileName)
+  3 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  3 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+  6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 16 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+ 35 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 91 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...s/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/wp-dark-mode-pro/includes/class-widget.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 29 ERRORS AFFECTING 26 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+   1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+     |       | class-wp-dark-mode-pro-widget.php, but found class-widget.php.[0m
+     |       | (WordPress.Files.FileName.InvalidClassFileName)
+   6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  15 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+  30 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+  33 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+  41 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+  42 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+  51 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$args['before_widget']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  53 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$args['before_title']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  53 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'apply_filters'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  53 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$args['after_title']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  56 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$alignment'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  60 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$args['after_widget']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+  66 | [31mERROR[0m | [1mParameter comment must end with a full stop[0m
+     |       | (Squiz.Commenting.FunctionComment.ParamCommentFullStop)
+  82 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 103 | [31mERROR[0m | [1mUse Yoda Condition checks, you must.[0m (WordPress.PHP.YodaConditions.NotYoda)
+ 105 | [31mERROR[0m | [1mUse Yoda Condition checks, you must.[0m (WordPress.PHP.YodaConditions.NotYoda)
+ 120 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$i'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 121 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$i'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 131 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 140 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 149 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 158 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 163 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 163 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 172 | [31mERROR[0m | [1mParameter comment must end with a full stop[0m
+     |       | (Squiz.Commenting.FunctionComment.ParamCommentFullStop)
+ 173 | [31mERROR[0m | [1mParameter comment must end with a full stop[0m
+     |       | (Squiz.Commenting.FunctionComment.ParamCommentFullStop)
+ 187 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 213 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...afran/Local Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/includes/class-enqueue.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 10 ERRORS AFFECTING 9 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+  1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+    |       | class-wp-dark-mode-ultimate-enqueue.php, but found class-enqueue.php.[0m
+    |       | (WordPress.Files.FileName.InvalidClassFileName)
+  3 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  3 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+  6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 14 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+ 30 | [31mERROR[0m | [1mDoc comment for parameter "$hook" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 31 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 41 | [31mERROR[0m | [1mDoc comment for parameter "$hook" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 44 | [31mERROR[0m | [1mMissing parameter name[0m (Squiz.Commenting.FunctionComment.MissingParamName)
+ 72 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+    |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...tes/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/wp-dark-mode-pro/includes/class-base.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 31 ERRORS AFFECTING 28 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+   1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+     |       | class-wp-dark-mode-pro.php, but found class-base.php.[0m
+     |       | (WordPress.Files.FileName.InvalidClassFileName)
+   2 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+   2 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+   3 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+   3 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+   5 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  59 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  87 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  90 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  96 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 126 | [31mERROR[0m | [1mA gettext call containing placeholders was found, but was not accompanied by a "translators:"
+     |       | comment on the line above to clarify the meaning of the placeholders.[0m
+     |       | (WordPress.WP.I18n.MissingTranslatorsComment)
+ 126 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 143 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 145 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 146 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 148 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 165 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$notice'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 209 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 218 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 227 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 248 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 249 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 256 | [31mERROR[0m | [1mextract() usage is highly discouraged, due to the complexity and unintended issues it might
+     |       | cause.[0m (WordPress.PHP.DontExtract.extract_extract)
+ 273 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 275 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 276 | [31mERROR[0m | [1mMissing parameter comment[0m (Squiz.Commenting.FunctionComment.MissingParamComment)
+ 312 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$notice['class']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 313 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$notice['message']'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 341 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 343 | [31mERROR[0m | [1mMissing doc comment for function wp_dark_mode_pro()[0m (Squiz.Commenting.FunctionComment.Missing)
+ 348 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...k-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/wp-dark-mode-pro/includes/install-wp-dark-mode.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 68 ERRORS AFFECTING 50 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+  53 | [31mERROR[0m | [1mMissing file doc comment[0m (Squiz.Commenting.FileComment.Missing)
+  89 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  96 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 103 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 110 | [31mERROR[0m | [1mOverriding WordPress globals is prohibited. Found assignment to $plugin[0m
+     |       | (WordPress.WP.GlobalVariablesOverride.Prohibited)
+ 112 | [31mERROR[0m | [1mOverriding WordPress globals is prohibited. Found assignment to $plugin[0m
+     |       | (WordPress.WP.GlobalVariablesOverride.Prohibited)
+ 137 | [31mERROR[0m | [1mOverriding WordPress globals is prohibited. Found assignment to $title[0m
+     |       | (WordPress.WP.GlobalVariablesOverride.Prohibited)
+ 148 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 161 | [31mERROR[0m | [1mOverriding WordPress globals is prohibited. Found assignment to $status[0m
+     |       | (WordPress.WP.GlobalVariablesOverride.Prohibited)
+ 172 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 174 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 179 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 194 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 196 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 201 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 212 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 215 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 217 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 228 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 230 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 243 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 259 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 261 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 291 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 291 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 295 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 295 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 296 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'self_admin_url'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 303 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 303 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 304 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'self_admin_url'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 309 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 309 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 315 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 315 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 319 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 319 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 320 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'self_admin_url'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 324 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 324 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 328 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 328 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 341 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$title'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 349 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$action_links'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 354 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$description'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 355 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$author'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 369 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'number_format_i18n'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 372 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 372 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 375 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 375 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 375 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'human_time_diff'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 384 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 388 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 393 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 393 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 393 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$active_installs_text'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 399 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 399 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 401 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 401 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 403 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '__'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 403 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 415 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 415 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 416 | [31mERROR[0m | [1mAll output should be run through an escaping function (like esc_html_e() or esc_attr_e()), found
+     |       | '_e'.[0m (WordPress.Security.EscapeOutput.UnsafePrintingFunction)
+ 416 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 441 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found 'admin_url'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: .../jafran/Local Sites/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/includes/class-hooks.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 30 ERRORS AFFECTING 29 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+   1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+     |       | class-wp-dark-mode-ultimate-hooks.php, but found class-hooks.php.[0m
+     |       | (WordPress.Files.FileName.InvalidClassFileName)
+   3 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+   6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  15 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+  23 | [31mERROR[0m | [1mDoc comment long description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.LongNotCapital)
+  40 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  62 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  67 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  78 | [31mERROR[0m | [1mDoc comment long description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.LongNotCapital)
+  92 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  94 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  96 | [31mERROR[0m | [1mExpected 1 space after closing brace; newline found[0m
+     |       | (Squiz.ControlStructures.ControlSignature.SpaceAfterCloseBrace)
+  98 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 100 | [31mERROR[0m | [1mExpected 1 space after closing brace; newline found[0m
+     |       | (Squiz.ControlStructures.ControlSignature.SpaceAfterCloseBrace)
+ 105 | [31mERROR[0m | [1mDoc comment for parameter "$schedules" missing[0m
+     |       | (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 115 | [31mERROR[0m | [1mDoc comment for parameter $new_schedules does not match actual variable name $schedules[0m
+     |       | (Squiz.Commenting.FunctionComment.ParamNameNoMatch)
+ 124 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 147 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 152 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 205 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-ultimate'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 229 | [31mERROR[0m | [1mParameter comment must end with a full stop[0m
+     |       | (Squiz.Commenting.FunctionComment.ParamCommentFullStop)
+ 269 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$scss_compiler'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 270 | [31mERROR[0m | [1mEmpty CATCH statement detected[0m (Generic.CodeAnalysis.EmptyStatement.DetectedCatch)
+ 270 | [31mERROR[0m | [1mEmpty CATCH statement must have a comment to explain why the exception is not handled[0m
+     |       | (Squiz.Commenting.EmptyCatchComment.Missing)
+ 293 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 303 | [31mERROR[0m | [1mDoc comment for parameter "$color" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 316 | [31mERROR[0m | [1mDoc comment for parameter "$color" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 329 | [31mERROR[0m | [1mDoc comment for parameter "$color" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 380 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 395 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+
+[1mFILE: ...es/wp-dark-mode/app/public/wp-content/plugins/wp-dark-mode-ultimate/wp-dark-mode-pro/includes/class-hooks.php[0m
+-------------------------------------------------------------------------------------------------------------------
+[1mFOUND 50 ERRORS AFFECTING 50 LINES[0m
+-------------------------------------------------------------------------------------------------------------------
+   1 | [31mERROR[0m | [1mClass file names should be based on the class name with "class-" prepended. Expected
+     |       | class-wp-dark-mode-hooks-pro.php, but found class-hooks.php.[0m
+     |       | (WordPress.Files.FileName.InvalidClassFileName)
+   3 | [31mERROR[0m | [1mMissing @package tag in file comment[0m (Squiz.Commenting.FileComment.MissingPackageTag)
+   6 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  14 | [31mERROR[0m | [1mMissing short description in doc comment[0m (Generic.Commenting.DocComment.MissingShort)
+  37 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  46 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+  56 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+  59 | [31mERROR[0m | [1mFunction return type is not void, but function has no return statement[0m
+     |       | (Squiz.Commenting.FunctionComment.InvalidNoReturn)
+  63 | [31mERROR[0m | [1m$_REQUEST data not unslashed before sanitization. Use wp_unslash() or similar[0m
+     |       | (WordPress.Security.ValidatedSanitizedInput.MissingUnslash)
+  67 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+  98 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 101 | [31mERROR[0m | [1mFunction return type is not void, but function has no return statement[0m
+     |       | (Squiz.Commenting.FunctionComment.InvalidNoReturn)
+ 105 | [31mERROR[0m | [1m$_REQUEST data not unslashed before sanitization. Use wp_unslash() or similar[0m
+     |       | (WordPress.Security.ValidatedSanitizedInput.MissingUnslash)
+ 109 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 139 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 142 | [31mERROR[0m | [1mFunction return type is not void, but function has no return statement[0m
+     |       | (Squiz.Commenting.FunctionComment.InvalidNoReturn)
+ 146 | [31mERROR[0m | [1m$_REQUEST data not unslashed before sanitization. Use wp_unslash() or similar[0m
+     |       | (WordPress.Security.ValidatedSanitizedInput.MissingUnslash)
+ 150 | [31mERROR[0m | [1mMismatched text domain. Expected 'wp-dark-mode' but got 'wp-dark-mode-pro'.[0m
+     |       | (WordPress.WP.I18n.TextDomainMismatch)
+ 226 | [31mERROR[0m | [1mUse Yoda Condition checks, you must.[0m (WordPress.PHP.YodaConditions.NotYoda)
+ 256 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 259 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 274 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 291 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 308 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 316 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 325 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 330 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 337 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 346 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 351 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 358 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 366 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 371 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 380 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 387 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 392 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 408 | [31mERROR[0m | [1mdate() is affected by runtime timezone changes which can cause date/time to be incorrectly
+     |       | displayed. Use gmdate() instead.[0m (WordPress.DateTime.RestrictedFunctions.date_date)
+ 429 | [31mERROR[0m | [1mDetected usage of a possibly undefined superglobal array index: $_REQUEST['active']. Use isset() or
+     |       | empty() to check the index exists before using it[0m
+     |       | (WordPress.Security.ValidatedSanitizedInput.InputNotValidated)
+ 431 | [31mERROR[0m | [1mdate() is affected by runtime timezone changes which can cause date/time to be incorrectly
+     |       | displayed. Use gmdate() instead.[0m (WordPress.DateTime.RestrictedFunctions.date_date)
+ 462 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 470 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$bottom_spacing'.[0m
+     |       | (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 473 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$side_spacing'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 475 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$side_spacing'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 483 | [31mERROR[0m | [1mInline comments must end in full-stops, exclamation marks, or question marks[0m
+     |       | (Squiz.Commenting.InlineComment.InvalidEndChar)
+ 495 | [31mERROR[0m | [1mAll output should be run through an escaping function (see the Security sections in the WordPress
+     |       | Developer Handbooks), found '$css'.[0m (WordPress.Security.EscapeOutput.OutputNotEscaped)
+ 669 | [31mERROR[0m | [1mDoc comment for parameter "$color_presets" missing[0m
+     |       | (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 736 | [31mERROR[0m | [1mDoc comment for parameter "$content" missing[0m (Squiz.Commenting.FunctionComment.MissingParamTag)
+ 739 | [31mERROR[0m | [1mMissing parameter name[0m (Squiz.Commenting.FunctionComment.MissingParamName)
+ 781 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+ 787 | [31mERROR[0m | [1mDoc comment short description must start with a capital letter[0m
+     |       | (Generic.Commenting.DocComment.ShortNotCapital)
+-------------------------------------------------------------------------------------------------------------------
+
+Time: 268ms; Memory: 8MB
+

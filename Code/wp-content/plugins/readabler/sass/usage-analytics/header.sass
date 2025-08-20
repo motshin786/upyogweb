@@ -1,0 +1,36 @@
+@import "vars"
+
+// Metabox header
+#readabler_usage_analytics
+
+  .postbox-header
+
+    h2
+      justify-content: flex-start
+      column-gap: 8px
+
+      &:before
+        background: url( ../images/logo-color.svg ) no-repeat center center
+        background-size: 16px 16px
+        content: ""
+        display: inline-block
+        width: 16px
+        height: 16px
+        min-width: 16px
+        min-height: 16px
+
+    .mdp-readabler-tooltip
+      font-size: 14px
+      display: inline-flex
+      margin: 0
+      align-items: inherit
+      opacity: 0.25
+      color: inherit
+      transition: all 0.5s ease-in-out
+      cursor: help
+
+    &:hover
+
+      .mdp-readabler-tooltip
+        opacity: 1
+        color: $wpAdminColor
